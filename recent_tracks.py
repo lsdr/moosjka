@@ -36,7 +36,7 @@ if __name__ == '__main__':
     # print pages
     # print
 
-    for i in xrange(2, pages+1):
+    for i in xrange(2, int(pages+1)):
         print 'processing page %s now' % str(i)
         tracks = service.fetch('user.getrecenttracks', limit='100', page=str(i))
         data  += [extractTrackData(t) for t in tracks.findall('recenttracks/track')]
