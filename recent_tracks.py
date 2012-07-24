@@ -24,13 +24,16 @@ def extractTrackData(track):
              track.findtext('url'), track.find('date').get('uts'))
     return _data
 
+def itertracks(tracks):
+    return (t for t in tracks.findall('recenttracks/track') if t.get('nowplaying') is None)
+
 
 if __name__ == '__main__':
     service = LastFM('7cc9edbf1289e55d01f6d0b6a6fd159b', 'lsdr')
 
     print 'processing page 1'
     tracks = service.fetch('user.getrecenttracks', limit='100', page='1')
-    data   = [extractTrackData(t) for t in tracks.findall('recenttracks/track')]
+    data   = [extractTrackData(t) for t in itertracks(tracks)]
     pages  = tracks.find('recenttracks').get('totalPages')
     # print data
     # print pages
