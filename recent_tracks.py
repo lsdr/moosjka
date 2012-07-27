@@ -42,7 +42,7 @@ if __name__ == '__main__':
     for i in xrange(2, int(pages)+1):
         print 'processing page %s now' % str(i)
         tracks = service.fetch('user.getrecenttracks', limit='100', page=str(i))
-        data  += [extractTrackData(t) for t in tracks.findall('recenttracks/track')]
+        data  += [extractTrackData(t) for t in itertracks(tracks)]
         # print data
     
     with open('tracks.db', 'w+') as db:
