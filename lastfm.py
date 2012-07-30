@@ -9,6 +9,7 @@ __license__ = "public domain"
 from urllib import urlencode
 from httplib2 import Http
 from xml.etree import cElementTree as ElementTree
+from sys import exit
 
 API_ROOT = 'http://ws.audioscrobbler.com/2.0/'
 
@@ -36,4 +37,9 @@ class LastFM:
         header, body = self.conn.request(request_url, 'GET')
         if header.status == 200:
             return self.parseXML(body)
+        else:
+            # 403, 503
+            print(header)
+            print(body)
+            exit(1)
 
