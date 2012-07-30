@@ -24,6 +24,11 @@ def extractTrackData(track):
              track.findtext('url'), track.find('date').get('uts'))
     return _data
 
+def isLastPage(track):
+    current = int(tracks.find('recenttracks').get('page'))
+    total   = int(tracks.find('recenttracks').get('totalPages'))
+    return current == total
+
 def itertracks(tracks):
     return (t for t in tracks.findall('recenttracks/track') if t.get('nowplaying') is None)
 
