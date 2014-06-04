@@ -23,7 +23,7 @@ class LastFM:
     def buildURL(self, **kwargs):
         return "%s?%s" % (API_ROOT, urlencode(kwargs))
 
-    def parseXML(self, body):
+    def parse_xml(self, body):
         xml = ElementTree.XML(body)
         return xml
 
@@ -36,7 +36,7 @@ class LastFM:
         print(request_url)
         header, body = self.conn.request(request_url, 'GET')
         if header.status == 200:
-            return self.parseXML(body)
+            return self.parse_xml(body)
         else:
             # 403, 503
             print(header)

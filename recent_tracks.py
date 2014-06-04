@@ -13,7 +13,6 @@ import cPickle as pickle
 #     name = String(nullable=False)
 #     age = Integer()
 #        
-# 
 # class Knows(Relationship):
 #     label = "knows"
 #     created = DateTime(default=current_datetime, nullable=False)
@@ -32,27 +31,22 @@ def isLastPage(track):
 def itertracks(tracks):
     return (t for t in tracks.findall('recenttracks/track') if t.get('nowplaying') is None)
 
-
 if __name__ == '__main__':
     service = LastFM('7cc9edbf1289e55d01f6d0b6a6fd159b', 'lsdr')
 
-    print 'processing page 1'
-    tracks = service.fetch('user.getrecenttracks', limit='100', page='1')
-    data   = [extractTrackData(t) for t in itertracks(tracks)]
+    tracks = service.fetch('user.getrecenttracks', limit='200', page='1')
     pages  = tracks.find('recenttracks').get('totalPages')
-    # print data
-    # print pages
-    # print
 
-    for i in xrange(2, int(pages)+1):
-        print 'processing page %s now' % str(i)
-        tracks = service.fetch('user.getrecenttracks', limit='100', page=str(i))
-        data  += [extractTrackData(t) for t in itertracks(tracks)]
-        # print data
-    
-    with open('tracks.db', 'w+') as db:
-        pickle.dump(data, db)
-        db.close()
+    for i in xrange(1, int(pages)+1):
+        print 'processing page %s now...' % str(i)
+        tracks = service.fetch('user.getrecenttracks', limit='200', page=str(i))
+        data   = [extractTrackData(t) for t in itertracks(tracks)]
+        print data
+        
+        track_file = 'db/tracks-%05d.db' % i
+        with open(track_file, 'w+') as db:
+            pickle.dump(data, db)
+            db.close()
 
     
 '''
@@ -88,8 +82,8 @@ em tese, crescimento linear (~ 123 bytes/track) logo, para
 # Benchmark:
 time ./recent_tracks.py (com 50 fetches, 100 tracks/fetch)
 
-    real	0m59.470s
-    user	0m0.581s
+    real    0m59.470s
+    user    0m0.581s
     sys     0m0.166s
 
 1m é 1/10 do tempo que vai ser necessário -- de acordo com o benchmark, ou seja,
