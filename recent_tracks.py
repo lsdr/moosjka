@@ -23,32 +23,54 @@ def extractTrackData(track):
              track.findtext('url'), track.find('date').get('uts'))
     return _data
 
+def startingPage(service):
+    try:
+        with open('db/last_page', 'r') as pointer:
+            last_page = pointer.read()
+    except IOError:
+        tracks = service.fetch('user.getrecenttracks', limit='200', page='1')
+        total_pages = totalPages(tracks)
+    return int(last_page)
+
+def totalPages(track):
+    total_pages = tracks.find('recenttracks').get('totalPages')
+    return int(total_pages)
+
+def currentPage(track):
+    current_page = tracks.find('recenttracks').get('page')
+    return int(current_page)
+
 def isLastPage(track):
-    current = int(tracks.find('recenttracks').get('page'))
-    total   = int(tracks.find('recenttracks').get('totalPages'))
+    current = currentPage(track)
+    total   = totalPages(track)
     return current == total
+
+def registerLastPage(page):
+    with open('db/last_page', 'w') as pointer:
+        pointer.write(str(page))
+
+def writeRawData(data, page):
+    track_file = 'db/tracks-%05d.db' % page
+    with open(track_file, 'w') as db:
+        pickle.dump(data, db)
+        db.close()
+    registerLastPage(page)
 
 def itertracks(tracks):
     return (t for t in tracks.findall('recenttracks/track') if t.get('nowplaying') is None)
 
 if __name__ == '__main__':
     service = LastFM('7cc9edbf1289e55d01f6d0b6a6fd159b', 'lsdr')
+    starting_page = startingPage(service)
 
-    tracks = service.fetch('user.getrecenttracks', limit='200', page='1')
-    pages  = tracks.find('recenttracks').get('totalPages')
-
-    for i in xrange(1, int(pages)+1):
-        print 'processing page %s now...' % str(i)
-        tracks = service.fetch('user.getrecenttracks', limit='200', page=str(i))
+    for page in reversed(range(starting_page)):
+        print 'processing page %s now...' % str(page)
+        tracks = service.fetch('user.getrecenttracks', limit='200', page=str(page))
         data   = [extractTrackData(t) for t in itertracks(tracks)]
-        print data
+        # print data
         
-        track_file = 'db/tracks-%05d.db' % i
-        with open(track_file, 'w+') as db:
-            pickle.dump(data, db)
-            db.close()
-
-    
+        writeRawData(data, page)
+ 
 '''
 # Tratando o UTS timestamp
 __timestamp_tuple = time.gmtime(float(UTS))

@@ -3,3 +3,5 @@
 .cache/*
 */.cache
 __pycache__/*
+db/*.db
+db/last_page
