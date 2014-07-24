@@ -1,0 +1,1802 @@
+(lp1
+(S'Foo Fighters'
+p2
+S'Friend of a Friend'
+p3
+S'http://www.last.fm/music/Foo+Fighters/_/Friend+of+a+Friend'
+p4
+S'1313080344'
+p5
+tp6
+a(S'Cypress Hill'
+p7
+S'A to the K'
+p8
+S'http://www.last.fm/music/Cypress+Hill/_/A+to+the+K'
+p9
+S'1313080151'
+p10
+tp11
+a(S'Metallica'
+p12
+S'Bleeding Me'
+p13
+S'http://www.last.fm/music/Metallica/_/Bleeding+Me'
+p14
+S'1313079765'
+p15
+tp16
+a(S'Kiss'
+p17
+S'Deuce'
+p18
+S'http://www.last.fm/music/Kiss/_/Deuce'
+p19
+S'1313067775'
+p20
+tp21
+a(S'Queen'
+p22
+S'Is This The World We Created...?'
+p23
+S'http://www.last.fm/music/Queen/_/Is+This+The+World+We+Created...%3F'
+p24
+S'1313067589'
+p25
+tp26
+a(S'Katy Perry'
+p27
+S'I Kissed a Girl'
+p28
+S'http://www.last.fm/music/Katy+Perry/_/I+Kissed+a+Girl'
+p29
+S'1313067399'
+p30
+tp31
+a(S"Terence Trent D'Arby"
+p32
+S'Wishing Well'
+p33
+S'http://www.last.fm/music/Terence+Trent+D%27Arby/_/Wishing+Well'
+p34
+S'1313067188'
+p35
+tp36
+a(S'Black Sabbath'
+p37
+S'Devil & Daughter'
+p38
+S'http://www.last.fm/music/Black+Sabbath/_/Devil+&+Daughter'
+p39
+S'1313066969'
+p40
+tp41
+a(S'Roxette'
+p42
+S'(Do You Get) Excited?'
+p43
+S'http://www.last.fm/music/Roxette/_/(Do+You+Get)+Excited%3F'
+p44
+S'1313066685'
+p45
+tp46
+a(S'Soundgarden'
+p47
+S'Mind Riot'
+p48
+S'http://www.last.fm/music/Soundgarden/_/Mind+Riot'
+p49
+S'1313066408'
+p50
+tp51
+a(S'Faith No More'
+p52
+S'A Small Victory'
+p53
+S'http://www.last.fm/music/Faith+No+More/_/A+Small+Victory'
+p54
+S'1313066009'
+p55
+tp56
+a(S'Queen'
+p57
+S'Play the Game'
+p58
+S'http://www.last.fm/music/Queen/_/Play+the+Game'
+p59
+S'1313065381'
+p60
+tp61
+a(S'Kiss'
+p62
+S'Do You Love Me'
+p63
+S'http://www.last.fm/music/Kiss/_/Do+You+Love+Me'
+p64
+S'1313065173'
+p65
+tp66
+a(S'Live'
+p67
+S'Unsheathed'
+p68
+S'http://www.last.fm/music/Live/_/Unsheathed'
+p69
+S'1313064959'
+p70
+tp71
+a(S'Audioslave'
+p72
+S'The Worm'
+p73
+S'http://www.last.fm/music/Audioslave/_/The+Worm'
+p74
+S'1313064742'
+p75
+tp76
+a(S'John Hiatt'
+p77
+S"God's Golden Eyes"
+p78
+S'http://www.last.fm/music/John+Hiatt/_/God%27s+Golden+Eyes'
+p79
+S'1313064495'
+p80
+tp81
+a(S'Audioslave'
+p82
+S'Jewel Of The Summertime'
+p83
+S'http://www.last.fm/music/Audioslave/_/Jewel+Of+The+Summertime'
+p84
+S'1313064347'
+p85
+tp86
+a(S'Iron Maiden'
+p87
+S"Losfer Words (Big 'Orra)"
+p88
+S'http://www.last.fm/music/Iron+Maiden/_/Losfer+Words+(Big+%27Orra)'
+p89
+S'1313064107'
+p90
+tp91
+a(S'Alice in Chains'
+p92
+S'Acid Bubble'
+p93
+S'http://www.last.fm/music/Alice+in+Chains/_/Acid+Bubble'
+p94
+S'1313063852'
+p95
+tp96
+a(S'Katy Perry'
+p97
+S'If You Can Afford Me'
+p98
+S'http://www.last.fm/music/Katy+Perry/_/If+You+Can+Afford+Me'
+p99
+S'1313063437'
+p100
+tp101
+a(S'Yes'
+p102
+S'Hold On'
+p103
+S'http://www.last.fm/music/Yes/_/Hold+On'
+p104
+S'1313063234'
+p105
+tp106
+a(S'Super Furry Animals'
+p107
+S'Bad Behaviour'
+p108
+S'http://www.last.fm/music/Super+Furry+Animals/_/Bad+Behaviour'
+p109
+S'1313015360'
+p110
+tp111
+a(S'Aerosmith'
+p112
+S'Back in the Saddle'
+p113
+S'http://www.last.fm/music/Aerosmith/_/Back+in+the+Saddle'
+p114
+S'1313015031'
+p115
+tp116
+a(S'Cypress Hill'
+p117
+S'How I Could Just Kill a Man'
+p118
+S'http://www.last.fm/music/Cypress+Hill/_/How+I+Could+Just+Kill+a+Man'
+p119
+S'1313014744'
+p120
+tp121
+a(S'AC/DC'
+p122
+S'You Shook Me All Night Long'
+p123
+S'http://www.last.fm/music/AC%2FDC/_/You+Shook+Me+All+Night+Long'
+p124
+S'1313013159'
+p125
+tp126
+a(S'Blues Traveler'
+p127
+S'Stand'
+p128
+S'http://www.last.fm/music/Blues+Traveler/_/Stand'
+p129
+S'1313012923'
+p130
+tp131
+a(S'Airbourne'
+p132
+S"Stand Up for Rock 'n' Roll"
+p133
+S'http://www.last.fm/music/Airbourne/_/Stand+Up+for+Rock+%27n%27+Roll'
+p134
+S'1313012605'
+p135
+tp136
+a(S'John Hiatt'
+p137
+S"God's Golden Eyes"
+p138
+S'http://www.last.fm/music/John+Hiatt/_/God%27s+Golden+Eyes'
+p139
+S'1313012363'
+p140
+tp141
+a(S'Audioslave'
+p142
+S'Jewel Of The Summertime'
+p143
+S'http://www.last.fm/music/Audioslave/_/Jewel+Of+The+Summertime'
+p144
+S'1313012214'
+p145
+tp146
+a(S'Alice in Chains'
+p147
+S'Acid Bubble'
+p148
+S'http://www.last.fm/music/Alice+in+Chains/_/Acid+Bubble'
+p149
+S'1313011974'
+p150
+tp151
+a(S'Katy Perry'
+p152
+S'If You Can Afford Me'
+p153
+S'http://www.last.fm/music/Katy+Perry/_/If+You+Can+Afford+Me'
+p154
+S'1313011558'
+p155
+tp156
+a(S'Metallica'
+p157
+S'Bleeding Me'
+p158
+S'http://www.last.fm/music/Metallica/_/Bleeding+Me'
+p159
+S'1313011351'
+p160
+tp161
+a(S'Stone Temple Pilots'
+p162
+S'Crackerman'
+p163
+S'http://www.last.fm/music/Stone+Temple+Pilots/_/Crackerman'
+p164
+S'1313008121'
+p165
+tp166
+a(S'Jamiroquai'
+p167
+S'Space Cowboy (classic club remix)'
+p168
+S'http://www.last.fm/music/Jamiroquai/_/Space+Cowboy+(classic+club+remix)'
+p169
+S'1313007796'
+p170
+tp171
+a(S'Metallica'
+p172
+S'Bleeding Me'
+p173
+S'http://www.last.fm/music/Metallica/_/Bleeding+Me'
+p174
+S'1313006541'
+p175
+tp176
+a(S'Metallica'
+p177
+S'The Outlaw Torn'
+p178
+S'http://www.last.fm/music/Metallica/_/The+Outlaw+Torn'
+p179
+S'1313000363'
+p180
+tp181
+a(S'Metallica'
+p182
+S'The Outlaw Torn'
+p183
+S'http://www.last.fm/music/Metallica/_/The+Outlaw+Torn'
+p184
+S'1312999817'
+p185
+tp186
+a(S'Alice in Chains'
+p187
+S'Bleed the Freak'
+p188
+S'http://www.last.fm/music/Alice+in+Chains/_/Bleed+the+Freak'
+p189
+S'1312998481'
+p190
+tp191
+a(S'Metallica'
+p192
+S'Bleeding Me'
+p193
+S'http://www.last.fm/music/Metallica/_/Bleeding+Me'
+p194
+S'1312998230'
+p195
+tp196
+a(S'Judas Priest'
+p197
+S'Hellrider'
+p198
+S'http://www.last.fm/music/Judas+Priest/_/Hellrider'
+p199
+S'1312997557'
+p200
+tp201
+a(S'Mother Love Bone'
+p202
+S'This Is Shangrila'
+p203
+S'http://www.last.fm/music/Mother+Love+Bone/_/This+Is+Shangrila'
+p204
+S'1312997288'
+p205
+tp206
+a(S"Jane's Addiction"
+p207
+S'Just Because'
+p208
+S'http://www.last.fm/music/Jane%27s+Addiction/_/Just+Because'
+p209
+S'1312997066'
+p210
+tp211
+a(S'Santana'
+p212
+VCorazón Espinado (feat. Maná)
+p213
+S'http://www.last.fm/music/Santana/_/Coraz%C3%B3n+Espinado+(feat.+Man%C3%A1)'
+p214
+S'1312996815'
+p215
+tp216
+a(S'Anthrax'
+p217
+S'Random Acts Of Senseless Violence'
+p218
+S'http://www.last.fm/music/Anthrax/_/Random+Acts+Of+Senseless+Violence'
+p219
+S'1312996539'
+p220
+tp221
+a(S'John Lee Hooker'
+p222
+S'Want Ad Blues'
+p223
+S'http://www.last.fm/music/John+Lee+Hooker/_/Want+Ad+Blues'
+p224
+S'1312996286'
+p225
+tp226
+a(S'Stone Temple Pilots'
+p227
+S'Black Again'
+p228
+S'http://www.last.fm/music/Stone+Temple+Pilots/_/Black+Again'
+p229
+S'1312996091'
+p230
+tp231
+a(S'Misfits'
+p232
+S'Attitude'
+p233
+S'http://www.last.fm/music/Misfits/_/Attitude'
+p234
+S'1312995885'
+p235
+tp236
+a(S'Black Sabbath'
+p237
+S"St. Vitus' Dance"
+p238
+S'http://www.last.fm/music/Black+Sabbath/_/St.+Vitus%27+Dance'
+p239
+S'1312995792'
+p240
+tp241
+a(S'Led Zeppelin'
+p242
+S'All My Love'
+p243
+S'http://www.last.fm/music/Led+Zeppelin/_/All+My+Love'
+p244
+S'1312995641'
+p245
+tp246
+a(S'Jerry Cantrell'
+p247
+S'Satisfy'
+p248
+S'http://www.last.fm/music/Jerry+Cantrell/_/Satisfy'
+p249
+S'1312995281'
+p250
+tp251
+a(S'Audioslave'
+p252
+S'Broken City'
+p253
+S'http://www.last.fm/music/Audioslave/_/Broken+City'
+p254
+S'1312994979'
+p255
+tp256
+a(S'Joe Satriani'
+p257
+S'The Souls of Distortion'
+p258
+S'http://www.last.fm/music/Joe+Satriani/_/The+Souls+of+Distortion'
+p259
+S'1312994752'
+p260
+tp261
+a(S'Black Sabbath'
+p262
+S'N.I.B.'
+p263
+S'http://www.last.fm/music/Black+Sabbath/_/N.I.B.'
+p264
+S'1312994449'
+p265
+tp266
+a(S'Stone Temple Pilots'
+p267
+S'Huckleberry Crumble'
+p268
+S'http://www.last.fm/music/Stone+Temple+Pilots/_/Huckleberry+Crumble'
+p269
+S'1312994080'
+p270
+tp271
+a(S'Black Sabbath'
+p272
+S'Get a Grip'
+p273
+S'http://www.last.fm/music/Black+Sabbath/_/Get+a+Grip'
+p274
+S'1312993879'
+p275
+tp276
+a(S'The Jacksons'
+p277
+S'Torture'
+p278
+S'http://www.last.fm/music/The+Jacksons/_/Torture'
+p279
+S'1312993598'
+p280
+tp281
+a(S'Cypress Hill'
+p282
+S'How I Could Just Kill a Man'
+p283
+S'http://www.last.fm/music/Cypress+Hill/_/How+I+Could+Just+Kill+a+Man'
+p284
+S'1312993301'
+p285
+tp286
+a(S'Alice Cooper'
+p287
+S"I'm So Angry"
+p288
+S'http://www.last.fm/music/Alice+Cooper/_/I%27m+So+Angry'
+p289
+S'1312993033'
+p290
+tp291
+a(S'Judas Priest'
+p292
+S'Reckless'
+p293
+S'http://www.last.fm/music/Judas+Priest/_/Reckless'
+p294
+S'1312992817'
+p295
+tp296
+a(S'Iron Maiden'
+p297
+S'Rainmaker'
+p298
+S'http://www.last.fm/music/Iron+Maiden/_/Rainmaker'
+p299
+S'1312986637'
+p300
+tp301
+a(S'Iron Maiden'
+p302
+S'Rainmaker'
+p303
+S'http://www.last.fm/music/Iron+Maiden/_/Rainmaker'
+p304
+S'1312985044'
+p305
+tp306
+a(S'Anthrax'
+p307
+S'One World'
+p308
+S'http://www.last.fm/music/Anthrax/_/One+World'
+p309
+S'1312984857'
+p310
+tp311
+a(S'Pyotr Ilyich Tchaikovsky'
+p312
+VSwan Lake: Scène
+p313
+S'http://www.last.fm/music/Pyotr+Ilyich+Tchaikovsky/_/Swan+Lake:+Sc%C3%A8ne'
+p314
+S'1312984419'
+p315
+tp316
+a(S'Katy Perry'
+p317
+S'If You Can Afford Me'
+p318
+S'http://www.last.fm/music/Katy+Perry/_/If+You+Can+Afford+Me'
+p319
+S'1312984201'
+p320
+tp321
+a(S'Queen'
+p322
+S"Now I'm Here"
+p323
+S'http://www.last.fm/music/Queen/_/Now+I%27m+Here'
+p324
+S'1312983743'
+p325
+tp326
+a(S'Cypress Hill'
+p327
+S'Dr. Greenthumb'
+p328
+S'http://www.last.fm/music/Cypress+Hill/_/Dr.+Greenthumb'
+p329
+S'1312983489'
+p330
+tp331
+a(S'Jamiroquai'
+p332
+S'Seven Days in Sunny June'
+p333
+S'http://www.last.fm/music/Jamiroquai/_/Seven+Days+in+Sunny+June'
+p334
+S'1312981480'
+p335
+tp336
+a(S'AC/DC'
+p337
+S'The Razors Edge'
+p338
+S'http://www.last.fm/music/AC%2FDC/_/The+Razors+Edge'
+p339
+S'1312981266'
+p340
+tp341
+a(S'Temple of the Dog'
+p342
+S'Four Walled World'
+p343
+S'http://www.last.fm/music/Temple+of+the+Dog/_/Four+Walled+World'
+p344
+S'1312980168'
+p345
+tp346
+a(S'Eric Clapton'
+p347
+S'San Francisco Bay Blues'
+p348
+S'http://www.last.fm/music/Eric+Clapton/_/San+Francisco+Bay+Blues'
+p349
+S'1312979754'
+p350
+tp351
+a(S'Audioslave'
+p352
+S'Light My Way'
+p353
+S'http://www.last.fm/music/Audioslave/_/Light+My+Way'
+p354
+S'1312979342'
+p355
+tp356
+a(S'Blues Traveler'
+p357
+S'Fallible'
+p358
+S'http://www.last.fm/music/Blues+Traveler/_/Fallible'
+p359
+S'1312978450'
+p360
+tp361
+a(S'Talk Show'
+p362
+S'Morning Girl'
+p363
+S'http://www.last.fm/music/Talk+Show/_/Morning+Girl'
+p364
+S'1312978160'
+p365
+tp366
+a(S'The Smiths'
+p367
+S'Panic'
+p368
+S'http://www.last.fm/music/The+Smiths/_/Panic'
+p369
+S'1312977950'
+p370
+tp371
+a(S'Aerosmith'
+p372
+S'Falling In Love (Is Hard on the Knees)'
+p373
+S'http://www.last.fm/music/Aerosmith/_/Falling+In+Love+(Is+Hard+on+the+Knees)'
+p374
+S'1312977809'
+p375
+tp376
+a(S'Airbourne'
+p377
+S'Fat City'
+p378
+S'http://www.last.fm/music/Airbourne/_/Fat+City'
+p379
+S'1312977579'
+p380
+tp381
+a(S'Cream'
+p382
+S'Sunshine of Your Love'
+p383
+S'http://www.last.fm/music/Cream/_/Sunshine+of+Your+Love'
+p384
+S'1312977360'
+p385
+tp386
+a(S'Blues Traveler'
+p387
+S'Last Night I Dreamed'
+p388
+S'http://www.last.fm/music/Blues+Traveler/_/Last+Night+I+Dreamed'
+p389
+S'1312977107'
+p390
+tp391
+a(S'ZZ Top'
+p392
+S'Planet Of Women'
+p393
+S'http://www.last.fm/music/ZZ+Top/_/Planet+Of+Women'
+p394
+S'1312976857'
+p395
+tp396
+a(VQueensrÿche
+p397
+S'One and Only'
+p398
+S'http://www.last.fm/music/Queensr%C3%BFche/_/One+and+Only'
+p399
+S'1312976617'
+p400
+tp401
+a(S'Megadeth'
+p402
+S'Family Tree'
+p403
+S'http://www.last.fm/music/Megadeth/_/Family+Tree'
+p404
+S'1312976163'
+p405
+tp406
+a(S'Velvet Revolver'
+p407
+S'She Builds Quick Machines'
+p408
+S'http://www.last.fm/music/Velvet+Revolver/_/She+Builds+Quick+Machines'
+p409
+S'1312933160'
+p410
+tp411
+a(S'Stone Temple Pilots'
+p412
+S'Press Play'
+p413
+S'http://www.last.fm/music/Stone+Temple+Pilots/_/Press+Play'
+p414
+S'1312932889'
+p415
+tp416
+a(S'Joe Satriani'
+p417
+S'Always with Me, Always with You'
+p418
+S'http://www.last.fm/music/Joe+Satriani/_/Always+with+Me,+Always+with+You'
+p419
+S'1312932809'
+p420
+tp421
+a(S'Queen'
+p422
+S"Now I'm Here"
+p423
+S'http://www.last.fm/music/Queen/_/Now+I%27m+Here'
+p424
+S'1312932590'
+p425
+tp426
+a(S'Cypress Hill'
+p427
+S'Dr. Greenthumb'
+p428
+S'http://www.last.fm/music/Cypress+Hill/_/Dr.+Greenthumb'
+p429
+S'1312932334'
+p430
+tp431
+a(S'Cypress Hill'
+p432
+S'Dr. Greenthumb'
+p433
+S'http://www.last.fm/music/Cypress+Hill/_/Dr.+Greenthumb'
+p434
+S'1312932067'
+p435
+tp436
+a(S'Queen'
+p437
+S'Let Me Live'
+p438
+S'http://www.last.fm/music/Queen/_/Let+Me+Live'
+p439
+S'1312931755'
+p440
+tp441
+a(S'Chickenfoot'
+p442
+S'Down The Drain'
+p443
+S'http://www.last.fm/music/Chickenfoot/_/Down+The+Drain'
+p444
+S'1312931462'
+p445
+tp446
+a(S'Liz Phair'
+p447
+S'Good Love Never Dies'
+p448
+S'http://www.last.fm/music/Liz+Phair/_/Good+Love+Never+Dies'
+p449
+S'1312931085'
+p450
+tp451
+a(S'Stevie Wonder'
+p452
+S'Part Time Lover'
+p453
+S'http://www.last.fm/music/Stevie+Wonder/_/Part+Time+Lover'
+p454
+S'1312930875'
+p455
+tp456
+a(S'Alice in Chains'
+p457
+S'Sea of Sorrow'
+p458
+S'http://www.last.fm/music/Alice+in+Chains/_/Sea+of+Sorrow'
+p459
+S'1312930617'
+p460
+tp461
+a(S'Iron Maiden'
+p462
+S'Sea of Madness'
+p463
+S'http://www.last.fm/music/Iron+Maiden/_/Sea+of+Madness'
+p464
+S'1312930243'
+p465
+tp466
+a(S'Ugly Kid Joe'
+p467
+S"Panhandlin' Prince"
+p468
+S'http://www.last.fm/music/Ugly+Kid+Joe/_/Panhandlin%27+Prince'
+p469
+S'1312929890'
+p470
+tp471
+a(S'Jamiroquai'
+p472
+S'Hey Floyd'
+p473
+S'http://www.last.fm/music/Jamiroquai/_/Hey+Floyd'
+p474
+S'1312929529'
+p475
+tp476
+a(S'Kiss'
+p477
+S'Easy As It Seems'
+p478
+S'http://www.last.fm/music/Kiss/_/Easy+As+It+Seems'
+p479
+S'1312929196'
+p480
+tp481
+a(S'AC/DC'
+p482
+S'Soul Stripper'
+p483
+S'http://www.last.fm/music/AC%2FDC/_/Soul+Stripper'
+p484
+S'1312928985'
+p485
+tp486
+a(S'Black Sabbath'
+p487
+S'Devil & Daughter'
+p488
+S'http://www.last.fm/music/Black+Sabbath/_/Devil+&+Daughter'
+p489
+S'1312925358'
+p490
+tp491
+a(S'Judas Priest'
+p492
+S'Private Property'
+p493
+S'http://www.last.fm/music/Judas+Priest/_/Private+Property'
+p494
+S'1312925066'
+p495
+tp496
+a(S'Rainbow'
+p497
+S'Lady Of The Lake'
+p498
+S'http://www.last.fm/music/Rainbow/_/Lady+Of+The+Lake'
+p499
+S'1312924796'
+p500
+tp501
+a(S'Metallica'
+p502
+S'Bleeding Me'
+p503
+S'http://www.last.fm/music/Metallica/_/Bleeding+Me'
+p504
+S'1312924576'
+p505
+tp506
+a(S'Jamiroquai'
+p507
+S'Half the Man'
+p508
+S'http://www.last.fm/music/Jamiroquai/_/Half+the+Man'
+p509
+S'1312923970'
+p510
+tp511
+a(S'Iron Maiden'
+p512
+S'The Evil That Men Do'
+p513
+S'http://www.last.fm/music/Iron+Maiden/_/The+Evil+That+Men+Do'
+p514
+S'1312923753'
+p515
+tp516
+a(S'Alice in Chains'
+p517
+S'Got Me Wrong'
+p518
+S'http://www.last.fm/music/Alice+in+Chains/_/Got+Me+Wrong'
+p519
+S'1312923346'
+p520
+tp521
+a(S'Roxette'
+p522
+S'Fingertips'
+p523
+S'http://www.last.fm/music/Roxette/_/Fingertips'
+p524
+S'1312923094'
+p525
+tp526
+a(S'Iron Maiden'
+p527
+S'Murders In the Rue Morgue'
+p528
+S'http://www.last.fm/music/Iron+Maiden/_/Murders+In+the+Rue+Morgue'
+p529
+S'1312922881'
+p530
+tp531
+a(S'Velvet Revolver'
+p532
+S"Gravedancer / Don't Drop That Dime"
+p533
+S'http://www.last.fm/music/Velvet+Revolver/_/Gravedancer+%2F+Don%27t+Drop+That+Dime'
+p534
+S'1312922609'
+p535
+tp536
+a(S'Stone Temple Pilots'
+p537
+S'Press Play'
+p538
+S'http://www.last.fm/music/Stone+Temple+Pilots/_/Press+Play'
+p539
+S'1312922287'
+p540
+tp541
+a(S'Joe Satriani'
+p542
+S'Always with Me, Always with You'
+p543
+S'http://www.last.fm/music/Joe+Satriani/_/Always+with+Me,+Always+with+You'
+p544
+S'1312922027'
+p545
+tp546
+a(S'Queen'
+p547
+S"Now I'm Here"
+p548
+S'http://www.last.fm/music/Queen/_/Now+I%27m+Here'
+p549
+S'1312921807'
+p550
+tp551
+a(S'Cypress Hill'
+p552
+S'Dr. Greenthumb'
+p553
+S'http://www.last.fm/music/Cypress+Hill/_/Dr.+Greenthumb'
+p554
+S'1312921552'
+p555
+tp556
+a(S'Cypress Hill'
+p557
+S'Dr. Greenthumb'
+p558
+S'http://www.last.fm/music/Cypress+Hill/_/Dr.+Greenthumb'
+p559
+S'1312921186'
+p560
+tp561
+a(S'Cypress Hill'
+p562
+S'Dr. Greenthumb'
+p563
+S'http://www.last.fm/music/Cypress+Hill/_/Dr.+Greenthumb'
+p564
+S'1312920997'
+p565
+tp566
+a(S'Katy Perry'
+p567
+S'If You Can Afford Me'
+p568
+S'http://www.last.fm/music/Katy+Perry/_/If+You+Can+Afford+Me'
+p569
+S'1312920771'
+p570
+tp571
+a(S'Katy Perry'
+p572
+S'I Kissed a Girl'
+p573
+S'http://www.last.fm/music/Katy+Perry/_/I+Kissed+a+Girl'
+p574
+S'1312920003'
+p575
+tp576
+a(S'Skid Row'
+p577
+S'18 and Life'
+p578
+S'http://www.last.fm/music/Skid+Row/_/18+and+Life'
+p579
+S'1312912520'
+p580
+tp581
+a(S'Iommi'
+p582
+S'Wasted Again'
+p583
+S'http://www.last.fm/music/Iommi/_/Wasted+Again'
+p584
+S'1312910992'
+p585
+tp586
+a(S'Queen'
+p587
+S'Sail Away Sweet Sister'
+p588
+S'http://www.last.fm/music/Queen/_/Sail+Away+Sweet+Sister'
+p589
+S'1312910757'
+p590
+tp591
+a(S'Blues Traveler'
+p592
+S'But Anyway'
+p593
+S'http://www.last.fm/music/Blues+Traveler/_/But+Anyway'
+p594
+S'1312910529'
+p595
+tp596
+a(S'Linkin Park'
+p597
+S'The Little Things Give You Away'
+p598
+S'http://www.last.fm/music/Linkin+Park/_/The+Little+Things+Give+You+Away'
+p599
+S'1312910174'
+p600
+tp601
+a(S'Foo Fighters'
+p602
+S'Resolve'
+p603
+S'http://www.last.fm/music/Foo+Fighters/_/Resolve'
+p604
+S'1312909790'
+p605
+tp606
+a(S'Whitesnake'
+p607
+S'The Deeper The Love'
+p608
+S'http://www.last.fm/music/Whitesnake/_/The+Deeper+The+Love'
+p609
+S'1312909501'
+p610
+tp611
+a(S'Cypress Hill'
+p612
+S'How I Could Just Kill a Man'
+p613
+S'http://www.last.fm/music/Cypress+Hill/_/How+I+Could+Just+Kill+a+Man'
+p614
+S'1312908437'
+p615
+tp616
+a(S'Tina Turner'
+p617
+S'Typical Male'
+p618
+S'http://www.last.fm/music/Tina+Turner/_/Typical+Male'
+p619
+S'1312908177'
+p620
+tp621
+a(S'Judas Priest'
+p622
+S'Diamonds and Rust'
+p623
+S'http://www.last.fm/music/Judas+Priest/_/Diamonds+and+Rust'
+p624
+S'1312907773'
+p625
+tp626
+a(S'Live'
+p627
+S'Operation Spirit (The Tyranny Of Tradition)'
+p628
+S'http://www.last.fm/music/Live/_/Operation+Spirit+(The+Tyranny+Of+Tradition)'
+p629
+S'1312907533'
+p630
+tp631
+a(S'Metallica'
+p632
+S'Bleeding Me'
+p633
+S'http://www.last.fm/music/Metallica/_/Bleeding+Me'
+p634
+S'1312907306'
+p635
+tp636
+a(S'Linkin Park'
+p637
+S'Step Up'
+p638
+S'http://www.last.fm/music/Linkin+Park/_/Step+Up'
+p639
+S'1312906755'
+p640
+tp641
+a(S"Guns N' Roses"
+p642
+S'Think About You'
+p643
+S'http://www.last.fm/music/Guns+N%27+Roses/_/Think+About+You'
+p644
+S'1312905795'
+p645
+tp646
+a(S"Guns N' Roses"
+p647
+S'Pretty Tied Up'
+p648
+S'http://www.last.fm/music/Guns+N%27+Roses/_/Pretty+Tied+Up'
+p649
+S'1312905520'
+p650
+tp651
+a(S'Temple of the Dog'
+p652
+S'Hunger Strike'
+p653
+S'http://www.last.fm/music/Temple+of+the+Dog/_/Hunger+Strike'
+p654
+S'1312905220'
+p655
+tp656
+a(S'Foo Fighters'
+p657
+S'Dear Rosemary'
+p658
+S'http://www.last.fm/music/Foo+Fighters/_/Dear+Rosemary'
+p659
+S'1312904976'
+p660
+tp661
+a(S'The Gracious Few'
+p662
+S'Closer'
+p663
+S'http://www.last.fm/music/The+Gracious+Few/_/Closer'
+p664
+S'1312904698'
+p665
+tp666
+a(S'Soundgarden'
+p667
+S'4th of July'
+p668
+S'http://www.last.fm/music/Soundgarden/_/4th+of+July'
+p669
+S'1312904493'
+p670
+tp671
+a(S'Queen'
+p672
+S'Pain Is So Close To Pleasure'
+p673
+S'http://www.last.fm/music/Queen/_/Pain+Is+So+Close+To+Pleasure'
+p674
+S'1312900157'
+p675
+tp676
+a(S'Metallica'
+p677
+S'Thorn Within'
+p678
+S'http://www.last.fm/music/Metallica/_/Thorn+Within'
+p679
+S'1312899880'
+p680
+tp681
+a(S'Metallica'
+p682
+S'The Outlaw Torn'
+p683
+S'http://www.last.fm/music/Metallica/_/The+Outlaw+Torn'
+p684
+S'1312898288'
+p685
+tp686
+a(S'Metallica'
+p687
+S'Bleeding Me'
+p688
+S'http://www.last.fm/music/Metallica/_/Bleeding+Me'
+p689
+S'1312897717'
+p690
+tp691
+a(S'Katy Perry'
+p692
+S'If You Can Afford Me'
+p693
+S'http://www.last.fm/music/Katy+Perry/_/If+You+Can+Afford+Me'
+p694
+S'1312897291'
+p695
+tp696
+a(S'Katy Perry'
+p697
+S'If You Can Afford Me'
+p698
+S'http://www.last.fm/music/Katy+Perry/_/If+You+Can+Afford+Me'
+p699
+S'1312891645'
+p700
+tp701
+a(S'Queen'
+p702
+S'Is This The World We Created...?'
+p703
+S'http://www.last.fm/music/Queen/_/Is+This+The+World+We+Created...%3F'
+p704
+S'1312891476'
+p705
+tp706
+a(S'Iron Maiden'
+p707
+S'Fear of the Dark'
+p708
+S'http://www.last.fm/music/Iron+Maiden/_/Fear+of+the+Dark'
+p709
+S'1312891290'
+p710
+tp711
+a(S'Jamiroquai'
+p712
+S'Didjital Vibrations'
+p713
+S'http://www.last.fm/music/Jamiroquai/_/Didjital+Vibrations'
+p714
+S'1312890858'
+p715
+tp716
+a(S'Them Crooked Vultures'
+p717
+S'Caligulove'
+p718
+S'http://www.last.fm/music/Them+Crooked+Vultures/_/Caligulove'
+p719
+S'1312890027'
+p720
+tp721
+a(S'The Gracious Few'
+p722
+S'Tredecim'
+p723
+S'http://www.last.fm/music/The+Gracious+Few/_/Tredecim'
+p724
+S'1312889658'
+p725
+tp726
+a(S'Queen'
+p727
+S'Fight From The Inside'
+p728
+S'http://www.last.fm/music/Queen/_/Fight+From+The+Inside'
+p729
+S'1312889039'
+p730
+tp731
+a(S'Alice Cooper'
+p732
+S'Dangerous Tonight'
+p733
+S'http://www.last.fm/music/Alice+Cooper/_/Dangerous+Tonight'
+p734
+S'1312888861'
+p735
+tp736
+a(S'Katy Perry'
+p737
+S'Hot n Cold'
+p738
+S'http://www.last.fm/music/Katy+Perry/_/Hot+n+Cold'
+p739
+S'1312888565'
+p740
+tp741
+a(S'Katy Perry'
+p742
+S'If You Can Afford Me'
+p743
+S'http://www.last.fm/music/Katy+Perry/_/If+You+Can+Afford+Me'
+p744
+S'1312888309'
+p745
+tp746
+a(S'Katy Perry'
+p747
+S'If You Can Afford Me'
+p748
+S'http://www.last.fm/music/Katy+Perry/_/If+You+Can+Afford+Me'
+p749
+S'1312888117'
+p750
+tp751
+a(S'Eric Clapton'
+p752
+S'The Core'
+p753
+S'http://www.last.fm/music/Eric+Clapton/_/The+Core'
+p754
+S'1312840489'
+p755
+tp756
+a(VFreddie Mercury & Montserrat Caballé
+p757
+S'The Golden Boy'
+p758
+S'http://www.last.fm/music/Freddie+Mercury+&+Montserrat+Caball%C3%A9/_/The+Golden+Boy'
+p759
+S'1312839755'
+p760
+tp761
+a(S'Metallica'
+p762
+S'All Nightmare Long'
+p763
+S'http://www.last.fm/music/Metallica/_/All+Nightmare+Long'
+p764
+S'1312839378'
+p765
+tp766
+a(S'Metallica'
+p767
+S'Cure'
+p768
+S'http://www.last.fm/music/Metallica/_/Cure'
+p769
+S'1312838892'
+p770
+tp771
+a(S'Linkin Park'
+p772
+S'The Little Things Give You Away'
+p773
+S'http://www.last.fm/music/Linkin+Park/_/The+Little+Things+Give+You+Away'
+p774
+S'1312838427'
+p775
+tp776
+a(S'Foo Fighters'
+p777
+S'Resolve'
+p778
+S'http://www.last.fm/music/Foo+Fighters/_/Resolve'
+p779
+S'1312837708'
+p780
+tp781
+a(S'Whitesnake'
+p782
+S'The Deeper The Love'
+p783
+S'http://www.last.fm/music/Whitesnake/_/The+Deeper+The+Love'
+p784
+S'1312836639'
+p785
+tp786
+a(S'Whitesnake'
+p787
+S'The Deeper The Love'
+p788
+S'http://www.last.fm/music/Whitesnake/_/The+Deeper+The+Love'
+p789
+S'1312836381'
+p790
+tp791
+a(S'Cypress Hill'
+p792
+S'How I Could Just Kill a Man'
+p793
+S'http://www.last.fm/music/Cypress+Hill/_/How+I+Could+Just+Kill+a+Man'
+p794
+S'1312835742'
+p795
+tp796
+a(S'The Smiths'
+p797
+S'There Is a Light That Never Goes Out'
+p798
+S'http://www.last.fm/music/The+Smiths/_/There+Is+a+Light+That+Never+Goes+Out'
+p799
+S'1312835482'
+p800
+tp801
+a(S'Queen'
+p802
+S'Is This The World We Created...?'
+p803
+S'http://www.last.fm/music/Queen/_/Is+This+The+World+We+Created...%3F'
+p804
+S'1312834438'
+p805
+tp806
+a(S'Eric Clapton'
+p807
+S"My Father's Eyes"
+p808
+S'http://www.last.fm/music/Eric+Clapton/_/My+Father%27s+Eyes'
+p809
+S'1312834242'
+p810
+tp811
+a(S'Black Sabbath'
+p812
+S'Headless Cross'
+p813
+S'http://www.last.fm/music/Black+Sabbath/_/Headless+Cross'
+p814
+S'1312833885'
+p815
+tp816
+a(S'Danko Jones'
+p817
+S'Code of the Road'
+p818
+S'http://www.last.fm/music/Danko+Jones/_/Code+of+the+Road'
+p819
+S'1312833480'
+p820
+tp821
+a(S'Danko Jones'
+p822
+S'Code of the Road'
+p823
+S'http://www.last.fm/music/Danko+Jones/_/Code+of+the+Road'
+p824
+S'1312833302'
+p825
+tp826
+a(S'Iommi'
+p827
+S'Into the Night (feat. Billy Idol)'
+p828
+S'http://www.last.fm/music/Iommi/_/Into+the+Night+(feat.+Billy+Idol)'
+p829
+S'1312833145'
+p830
+tp831
+a(S'Jamiroquai'
+p832
+S'Planet Home'
+p833
+S'http://www.last.fm/music/Jamiroquai/_/Planet+Home'
+p834
+S'1312832818'
+p835
+tp836
+a(S'Bad Religion'
+p837
+S'Hooray for Me...'
+p838
+S'http://www.last.fm/music/Bad+Religion/_/Hooray+for+Me...'
+p839
+S'1312832534'
+p840
+tp841
+a(S'Katy Perry'
+p842
+S'I Kissed a Girl'
+p843
+S'http://www.last.fm/music/Katy+Perry/_/I+Kissed+a+Girl'
+p844
+S'1312832363'
+p845
+tp846
+a(S'Super Furry Animals'
+p847
+S'Golden Retriever'
+p848
+S'http://www.last.fm/music/Super+Furry+Animals/_/Golden+Retriever'
+p849
+S'1312832174'
+p850
+tp851
+a(S'Alice in Chains'
+p852
+S'Get Born Again'
+p853
+S'http://www.last.fm/music/Alice+in+Chains/_/Get+Born+Again'
+p854
+S'1312832057'
+p855
+tp856
+a(S'Metallica'
+p857
+S'Mama Said'
+p858
+S'http://www.last.fm/music/Metallica/_/Mama+Said'
+p859
+S'1312831713'
+p860
+tp861
+a(S'Live'
+p862
+S'Operation Spirit (The Tyranny Of Tradition)'
+p863
+S'http://www.last.fm/music/Live/_/Operation+Spirit+(The+Tyranny+Of+Tradition)'
+p864
+S'1312830885'
+p865
+tp866
+a(S'Metallica'
+p867
+S'Bleeding Me'
+p868
+S'http://www.last.fm/music/Metallica/_/Bleeding+Me'
+p869
+S'1312830662'
+p870
+tp871
+a(S'Judas Priest'
+p872
+S'Reckless'
+p873
+S'http://www.last.fm/music/Judas+Priest/_/Reckless'
+p874
+S'1312823234'
+p875
+tp876
+a(S'Metallica'
+p877
+S'Thorn Within'
+p878
+S'http://www.last.fm/music/Metallica/_/Thorn+Within'
+p879
+S'1312822968'
+p880
+tp881
+a(S'Metallica'
+p882
+S'The Outlaw Torn'
+p883
+S'http://www.last.fm/music/Metallica/_/The+Outlaw+Torn'
+p884
+S'1312822603'
+p885
+tp886
+a(S'Metallica'
+p887
+S'Bleeding Me'
+p888
+S'http://www.last.fm/music/Metallica/_/Bleeding+Me'
+p889
+S'1312821059'
+p890
+tp891
+a(S'Cypress Hill'
+p892
+S'Dr. Greenthumb'
+p893
+S'http://www.last.fm/music/Cypress+Hill/_/Dr.+Greenthumb'
+p894
+S'1312820466'
+p895
+tp896
+a(S'Katy Perry'
+p897
+S'If You Can Afford Me'
+p898
+S'http://www.last.fm/music/Katy+Perry/_/If+You+Can+Afford+Me'
+p899
+S'1312820189'
+p900
+tp901
+a(S'Katy Perry'
+p902
+S'If You Can Afford Me'
+p903
+S'http://www.last.fm/music/Katy+Perry/_/If+You+Can+Afford+Me'
+p904
+S'1312819989'
+p905
+tp906
+a(S'Live'
+p907
+S'Operation Spirit (The Tyranny Of Tradition)'
+p908
+S'http://www.last.fm/music/Live/_/Operation+Spirit+(The+Tyranny+Of+Tradition)'
+p909
+S'1312813719'
+p910
+tp911
+a(S'Metallica'
+p912
+S'Bleeding Me'
+p913
+S'http://www.last.fm/music/Metallica/_/Bleeding+Me'
+p914
+S'1312813482'
+p915
+tp916
+a(S'Alice Cooper'
+p917
+S'Public Animal #9'
+p918
+S'http://www.last.fm/music/Alice+Cooper/_/Public+Animal+%239'
+p919
+S'1312811743'
+p920
+tp921
+a(S'Katy Perry'
+p922
+S'If You Can Afford Me'
+p923
+S'http://www.last.fm/music/Katy+Perry/_/If+You+Can+Afford+Me'
+p924
+S'1312811467'
+p925
+tp926
+a(S'Metallica'
+p927
+S'For Whom the Bell Tolls'
+p928
+S'http://www.last.fm/music/Metallica/_/For+Whom+the+Bell+Tolls'
+p929
+S'1312811255'
+p930
+tp931
+a(S'Cypress Hill'
+p932
+S'Dr. Greenthumb'
+p933
+S'http://www.last.fm/music/Cypress+Hill/_/Dr.+Greenthumb'
+p934
+S'1312810737'
+p935
+tp936
+a(S'Cypress Hill'
+p937
+S'How I Could Just Kill a Man'
+p938
+S'http://www.last.fm/music/Cypress+Hill/_/How+I+Could+Just+Kill+a+Man'
+p939
+S'1312810459'
+p940
+tp941
+a(S'Katy Perry'
+p942
+S'I Kissed a Girl'
+p943
+S'http://www.last.fm/music/Katy+Perry/_/I+Kissed+a+Girl'
+p944
+S'1312810200'
+p945
+tp946
+a(S'Katy Perry'
+p947
+S'If You Can Afford Me'
+p948
+S'http://www.last.fm/music/Katy+Perry/_/If+You+Can+Afford+Me'
+p949
+S'1312809979'
+p950
+tp951
+a(S'Katy Perry'
+p952
+S'If You Can Afford Me'
+p953
+S'http://www.last.fm/music/Katy+Perry/_/If+You+Can+Afford+Me'
+p954
+S'1312809779'
+p955
+tp956
+a(S'Katy Perry'
+p957
+S'If You Can Afford Me'
+p958
+S'http://www.last.fm/music/Katy+Perry/_/If+You+Can+Afford+Me'
+p959
+S'1312809617'
+p960
+tp961
+a(S'Katy Perry'
+p962
+S'Lost'
+p963
+S'http://www.last.fm/music/Katy+Perry/_/Lost'
+p964
+S'1312579749'
+p965
+tp966
+a(S'Katy Perry'
+p967
+S'If You Can Afford Me'
+p968
+S'http://www.last.fm/music/Katy+Perry/_/If+You+Can+Afford+Me'
+p969
+S'1312576025'
+p970
+tp971
+a(S'Katy Perry'
+p972
+S'If You Can Afford Me'
+p973
+S'http://www.last.fm/music/Katy+Perry/_/If+You+Can+Afford+Me'
+p974
+S'1312575826'
+p975
+tp976
+a(S'Katy Perry'
+p977
+S'Self Inflicted'
+p978
+S'http://www.last.fm/music/Katy+Perry/_/Self+Inflicted'
+p979
+S'1312575698'
+p980
+tp981
+a(S'Katy Perry'
+p982
+S'Lost'
+p983
+S'http://www.last.fm/music/Katy+Perry/_/Lost'
+p984
+S'1312575493'
+p985
+tp986
+a(S'Katy Perry'
+p987
+S'If You Can Afford Me'
+p988
+S'http://www.last.fm/music/Katy+Perry/_/If+You+Can+Afford+Me'
+p989
+S'1312575237'
+p990
+tp991
+a(S'Katy Perry'
+p992
+S'Hot n Cold'
+p993
+S'http://www.last.fm/music/Katy+Perry/_/Hot+n+Cold'
+p994
+S'1312575038'
+p995
+tp996
+a(S'Katy Perry'
+p997
+S'Thinking of You'
+p998
+S'http://www.last.fm/music/Katy+Perry/_/Thinking+of+You'
+p999
+S'1312574816'
+p1000
+tp1001
+a.

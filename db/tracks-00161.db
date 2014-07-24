@@ -1,0 +1,1802 @@
+(lp1
+(S'Billy Idol'
+p2
+S'White Wedding'
+p3
+S'http://www.last.fm/music/Billy+Idol/_/White+Wedding'
+p4
+S'1263474481'
+p5
+tp6
+a(S'Jupiter One'
+p7
+S'Countdown'
+p8
+S'http://www.last.fm/music/Jupiter+One/_/Countdown'
+p9
+S'1263474252'
+p10
+tp11
+a(S'Live'
+p12
+S'Waterboy'
+p13
+S'http://www.last.fm/music/Live/_/Waterboy'
+p14
+S'1263474035'
+p15
+tp16
+a(S'Black Sabbath'
+p17
+S'Fairies Wear Boots'
+p18
+S'http://www.last.fm/music/Black+Sabbath/_/Fairies+Wear+Boots'
+p19
+S'1263473661'
+p20
+tp21
+a(S'Diamond Head'
+p22
+S'Dead or Living'
+p23
+S'http://www.last.fm/music/Diamond+Head/_/Dead+or+Living'
+p24
+S'1263473389'
+p25
+tp26
+a(S'ZZ Top'
+p27
+S'Rhythmeen'
+p28
+S'http://www.last.fm/music/ZZ+Top/_/Rhythmeen'
+p29
+S'1263473156'
+p30
+tp31
+a(S'Yes'
+p32
+S'Changes'
+p33
+S'http://www.last.fm/music/Yes/_/Changes'
+p34
+S'1263471416'
+p35
+tp36
+a(S'Yes'
+p37
+S'Changes'
+p38
+S'http://www.last.fm/music/Yes/_/Changes'
+p39
+S'1263471036'
+p40
+tp41
+a(S'Yes'
+p42
+S'Changes'
+p43
+S'http://www.last.fm/music/Yes/_/Changes'
+p44
+S'1263470656'
+p45
+tp46
+a(S'Black Sabbath'
+p47
+S'Who Are You?'
+p48
+S'http://www.last.fm/music/Black+Sabbath/_/Who+Are+You%3F'
+p49
+S'1263470378'
+p50
+tp51
+a(S'Black Sabbath'
+p52
+S'Sabbra Cadabra'
+p53
+S'http://www.last.fm/music/Black+Sabbath/_/Sabbra+Cadabra'
+p54
+S'1263470018'
+p55
+tp56
+a(S'Black Sabbath'
+p57
+S'Supertzar'
+p58
+S'http://www.last.fm/music/Black+Sabbath/_/Supertzar'
+p59
+S'1263469794'
+p60
+tp61
+a(S'Black Sabbath'
+p62
+S'Supernaut'
+p63
+S'http://www.last.fm/music/Black+Sabbath/_/Supernaut'
+p64
+S'1263469508'
+p65
+tp66
+a(S'Black Sabbath'
+p67
+S'Hole in the Sky'
+p68
+S'http://www.last.fm/music/Black+Sabbath/_/Hole+in+the+Sky'
+p69
+S'1263469268'
+p70
+tp71
+a(S'Black Sabbath'
+p72
+S'Wheels of Confusion'
+p73
+S'http://www.last.fm/music/Black+Sabbath/_/Wheels+of+Confusion'
+p74
+S'1263468356'
+p75
+tp76
+a(S'Black Sabbath'
+p77
+S'Killing Yourself to Live'
+p78
+S'http://www.last.fm/music/Black+Sabbath/_/Killing+Yourself+to+Live'
+p79
+S'1263408638'
+p80
+tp81
+a(S'Black Sabbath'
+p82
+S'Behind the Wall of Sleep'
+p83
+S'http://www.last.fm/music/Black+Sabbath/_/Behind+the+Wall+of+Sleep'
+p84
+S'1263408393'
+p85
+tp86
+a(S'Black Sabbath'
+p87
+S'Supernaut'
+p88
+S'http://www.last.fm/music/Black+Sabbath/_/Supernaut'
+p89
+S'1263408107'
+p90
+tp91
+a(S'Black Sabbath'
+p92
+S'Into the Void'
+p93
+S'http://www.last.fm/music/Black+Sabbath/_/Into+the+Void'
+p94
+S'1263407430'
+p95
+tp96
+a(S'Black Sabbath'
+p97
+S'Orchid'
+p98
+S'http://www.last.fm/music/Black+Sabbath/_/Orchid'
+p99
+S'1263407339'
+p100
+tp101
+a(S'Black Sabbath'
+p102
+S'Megalomania'
+p103
+S'http://www.last.fm/music/Black+Sabbath/_/Megalomania'
+p104
+S'1263406758'
+p105
+tp106
+a(S'Black Sabbath'
+p107
+S'Wheels of Confusion'
+p108
+S'http://www.last.fm/music/Black+Sabbath/_/Wheels+of+Confusion'
+p109
+S'1263406149'
+p110
+tp111
+a(S'Black Sabbath'
+p112
+S'Sabbra Cadabra'
+p113
+S'http://www.last.fm/music/Black+Sabbath/_/Sabbra+Cadabra'
+p114
+S'1263405777'
+p115
+tp116
+a(S'Black Sabbath'
+p117
+S'The Wizard'
+p118
+S'http://www.last.fm/music/Black+Sabbath/_/The+Wizard'
+p119
+S'1263405512'
+p120
+tp121
+a(S'Black Sabbath'
+p122
+S'Am I Going Insane (Radio)'
+p123
+S'http://www.last.fm/music/Black+Sabbath/_/Am+I+Going+Insane+(Radio)'
+p124
+S'1263405256'
+p125
+tp126
+a(S'Black Sabbath'
+p127
+S'Spiral Architect'
+p128
+S'http://www.last.fm/music/Black+Sabbath/_/Spiral+Architect'
+p129
+S'1263404926'
+p130
+tp131
+a(S'Black Sabbath'
+p132
+S'Sabbath Bloody Sabbath'
+p133
+S'http://www.last.fm/music/Black+Sabbath/_/Sabbath+Bloody+Sabbath'
+p134
+S'1263404580'
+p135
+tp136
+a(S'Black Sabbath'
+p137
+S'Fluff'
+p138
+S'http://www.last.fm/music/Black+Sabbath/_/Fluff'
+p139
+S'1263404326'
+p140
+tp141
+a(S'Black Sabbath'
+p142
+S'Children of the Grave'
+p143
+S'http://www.last.fm/music/Black+Sabbath/_/Children+of+the+Grave'
+p144
+S'1263404009'
+p145
+tp146
+a(S'Black Sabbath'
+p147
+S'Get a Grip'
+p148
+S'http://www.last.fm/music/Black+Sabbath/_/Get+a+Grip'
+p149
+S'1263403769'
+p150
+tp151
+a(S'Black Sabbath'
+p152
+S'Changes'
+p153
+S'http://www.last.fm/music/Black+Sabbath/_/Changes'
+p154
+S'1263403483'
+p155
+tp156
+a(S'Black Sabbath'
+p157
+S'Wheels of Confusion'
+p158
+S'http://www.last.fm/music/Black+Sabbath/_/Wheels+of+Confusion'
+p159
+S'1263402227'
+p160
+tp161
+a(S'Black Sabbath'
+p162
+S'Changes'
+p163
+S'http://www.last.fm/music/Black+Sabbath/_/Changes'
+p164
+S'1263400383'
+p165
+tp166
+a(S'Black Sabbath'
+p167
+S'Wheels of Confusion'
+p168
+S'http://www.last.fm/music/Black+Sabbath/_/Wheels+of+Confusion'
+p169
+S'1263399889'
+p170
+tp171
+a(S'Black Sabbath'
+p172
+S'Wicked World'
+p173
+S'http://www.last.fm/music/Black+Sabbath/_/Wicked+World'
+p174
+S'1263399606'
+p175
+tp176
+a(S'Black Sabbath'
+p177
+S'Supertzar'
+p178
+S'http://www.last.fm/music/Black+Sabbath/_/Supertzar'
+p179
+S'1263389729'
+p180
+tp181
+a(S'Black Sabbath'
+p182
+S'Cornucopia'
+p183
+S'http://www.last.fm/music/Black+Sabbath/_/Cornucopia'
+p184
+S'1263389494'
+p185
+tp186
+a(S'Black Sabbath'
+p187
+S'The Warning'
+p188
+S'http://www.last.fm/music/Black+Sabbath/_/The+Warning'
+p189
+S'1263388862'
+p190
+tp191
+a(S'Black Sabbath'
+p192
+S'Snowblind'
+p193
+S'http://www.last.fm/music/Black+Sabbath/_/Snowblind'
+p194
+S'1263388530'
+p195
+tp196
+a(S'Black Sabbath'
+p197
+S'Spiral Architect'
+p198
+S'http://www.last.fm/music/Black+Sabbath/_/Spiral+Architect'
+p199
+S'1263387858'
+p200
+tp201
+a(S'Black Sabbath'
+p202
+S'Wheels of Confusion'
+p203
+S'http://www.last.fm/music/Black+Sabbath/_/Wheels+of+Confusion'
+p204
+S'1263387364'
+p205
+tp206
+a(S'Black Sabbath'
+p207
+S'Laguna Sunrise'
+p208
+S'http://www.last.fm/music/Black+Sabbath/_/Laguna+Sunrise'
+p209
+S'1263387191'
+p210
+tp211
+a(S'Black Sabbath'
+p212
+S'The Wizard'
+p213
+S'http://www.last.fm/music/Black+Sabbath/_/The+Wizard'
+p214
+S'1263386926'
+p215
+tp216
+a(S'Black Sabbath'
+p217
+S'Behind the Wall of Sleep'
+p218
+S'http://www.last.fm/music/Black+Sabbath/_/Behind+the+Wall+of+Sleep'
+p219
+S'1263386709'
+p220
+tp221
+a(S'Black Sabbath'
+p222
+S'The Warning'
+p223
+S'http://www.last.fm/music/Black+Sabbath/_/The+Warning'
+p224
+S'1263386076'
+p225
+tp226
+a(S'Black Sabbath'
+p227
+S'The Warning'
+p228
+S'http://www.last.fm/music/Black+Sabbath/_/The+Warning'
+p229
+S'1263384593'
+p230
+tp231
+a(S'Black Sabbath'
+p232
+S'Cornucopia'
+p233
+S'http://www.last.fm/music/Black+Sabbath/_/Cornucopia'
+p234
+S'1263384358'
+p235
+tp236
+a(S'Black Sabbath'
+p237
+S'Sabbath Bloody Sabbath'
+p238
+S'http://www.last.fm/music/Black+Sabbath/_/Sabbath+Bloody+Sabbath'
+p239
+S'1263384012'
+p240
+tp241
+a(S'Black Sabbath'
+p242
+S'Get a Grip'
+p243
+S'http://www.last.fm/music/Black+Sabbath/_/Get+a+Grip'
+p244
+S'1263383772'
+p245
+tp246
+a(S'Black Sabbath'
+p247
+S'Killing Yourself to Live'
+p248
+S'http://www.last.fm/music/Black+Sabbath/_/Killing+Yourself+to+Live'
+p249
+S'1263383318'
+p250
+tp251
+a(S'Black Sabbath'
+p252
+S'A National Acrobat'
+p253
+S'http://www.last.fm/music/Black+Sabbath/_/A+National+Acrobat'
+p254
+S'1263382229'
+p255
+tp256
+a(S'Black Sabbath'
+p257
+S'Solitude'
+p258
+S'http://www.last.fm/music/Black+Sabbath/_/Solitude'
+p259
+S'1263381505'
+p260
+tp261
+a(S'Black Sabbath'
+p262
+S'Fluff'
+p263
+S'http://www.last.fm/music/Black+Sabbath/_/Fluff'
+p264
+S'1263381251'
+p265
+tp266
+a(S'Black Sabbath'
+p267
+S'Hole in the Sky'
+p268
+S'http://www.last.fm/music/Black+Sabbath/_/Hole+in+the+Sky'
+p269
+S'1263381011'
+p270
+tp271
+a(S'Black Sabbath'
+p272
+S'Supertzar'
+p273
+S'http://www.last.fm/music/Black+Sabbath/_/Supertzar'
+p274
+S'1263380788'
+p275
+tp276
+a(S'Black Sabbath'
+p277
+S'Megalomania'
+p278
+S'http://www.last.fm/music/Black+Sabbath/_/Megalomania'
+p279
+S'1263379609'
+p280
+tp281
+a(S'Black Sabbath'
+p282
+S'Megalomania'
+p283
+S'http://www.last.fm/music/Black+Sabbath/_/Megalomania'
+p284
+S'1263328760'
+p285
+tp286
+a(S'Black Sabbath'
+p287
+S'Supernaut'
+p288
+S'http://www.last.fm/music/Black+Sabbath/_/Supernaut'
+p289
+S'1263315135'
+p290
+tp291
+a(S'Black Sabbath'
+p292
+S'Sabbra Cadabra'
+p293
+S'http://www.last.fm/music/Black+Sabbath/_/Sabbra+Cadabra'
+p294
+S'1263314774'
+p295
+tp296
+a(S'Black Sabbath'
+p297
+S'Hand of Doom'
+p298
+S'http://www.last.fm/music/Black+Sabbath/_/Hand+of+Doom'
+p299
+S'1263314346'
+p300
+tp301
+a(S'Black Sabbath'
+p302
+S'Solitude'
+p303
+S'http://www.last.fm/music/Black+Sabbath/_/Solitude'
+p304
+S'1263313492'
+p305
+tp306
+a(S'Black Sabbath'
+p307
+S'Fluff'
+p308
+S'http://www.last.fm/music/Black+Sabbath/_/Fluff'
+p309
+S'1263311685'
+p310
+tp311
+a(S'Black Sabbath'
+p312
+S'Behind the Wall of Sleep'
+p313
+S'http://www.last.fm/music/Black+Sabbath/_/Behind+the+Wall+of+Sleep'
+p314
+S'1263311440'
+p315
+tp316
+a(S'Atreyu'
+p317
+S'Becoming the Bull'
+p318
+S'http://www.last.fm/music/Atreyu/_/Becoming+the+Bull'
+p319
+S'1263239193'
+p320
+tp321
+a(S'Black Sabbath'
+p322
+S'Megalomania'
+p323
+S'http://www.last.fm/music/Black+Sabbath/_/Megalomania'
+p324
+S'1263238613'
+p325
+tp326
+a(S'Jupiter One'
+p327
+S'Countdown'
+p328
+S'http://www.last.fm/music/Jupiter+One/_/Countdown'
+p329
+S'1263238384'
+p330
+tp331
+a(S'Rainbow'
+p332
+S"Long Live Rock 'N' Roll"
+p333
+S'http://www.last.fm/music/Rainbow/_/Long+Live+Rock+%27N%27+Roll'
+p334
+S'1263238123'
+p335
+tp336
+a(S'Liz Phair'
+p337
+S"Why Can't I"
+p338
+S'http://www.last.fm/music/Liz+Phair/_/Why+Can%27t+I'
+p339
+S'1263237914'
+p340
+tp341
+a(S'AC/DC'
+p342
+S'Big Jack'
+p343
+S'http://www.last.fm/music/AC%2FDC/_/Big+Jack'
+p344
+S'1263237677'
+p345
+tp346
+a(S'Chickenfoot'
+p347
+S'Sexy Little Thing'
+p348
+S'http://www.last.fm/music/Chickenfoot/_/Sexy+Little+Thing'
+p349
+S'1263237422'
+p350
+tp351
+a(S'Airbourne'
+p352
+S'Diamond in the Rough'
+p353
+S'http://www.last.fm/music/Airbourne/_/Diamond+in+the+Rough'
+p354
+S'1263237248'
+p355
+tp356
+a(S'AC/DC'
+p357
+S'Big Jack'
+p358
+S'http://www.last.fm/music/AC%2FDC/_/Big+Jack'
+p359
+S'1263237011'
+p360
+tp361
+a(S'Liz Phair'
+p362
+S"Why Can't I"
+p363
+S'http://www.last.fm/music/Liz+Phair/_/Why+Can%27t+I'
+p364
+S'1263236802'
+p365
+tp366
+a(S'Black Sabbath'
+p367
+S'Megalomania'
+p368
+S'http://www.last.fm/music/Black+Sabbath/_/Megalomania'
+p369
+S'1263236222'
+p370
+tp371
+a(S'Rainbow'
+p372
+S"Long Live Rock 'N' Roll"
+p373
+S'http://www.last.fm/music/Rainbow/_/Long+Live+Rock+%27N%27+Roll'
+p374
+S'1263235960'
+p375
+tp376
+a(S'Atreyu'
+p377
+S'Becoming the Bull'
+p378
+S'http://www.last.fm/music/Atreyu/_/Becoming+the+Bull'
+p379
+S'1263235739'
+p380
+tp381
+a(S'Jupiter One'
+p382
+S'Countdown'
+p383
+S'http://www.last.fm/music/Jupiter+One/_/Countdown'
+p384
+S'1263235511'
+p385
+tp386
+a(S'Airbourne'
+p387
+S'Diamond in the Rough'
+p388
+S'http://www.last.fm/music/Airbourne/_/Diamond+in+the+Rough'
+p389
+S'1263235337'
+p390
+tp391
+a(S'Chickenfoot'
+p392
+S'Sexy Little Thing'
+p393
+S'http://www.last.fm/music/Chickenfoot/_/Sexy+Little+Thing'
+p394
+S'1263235082'
+p395
+tp396
+a(S'AC/DC'
+p397
+S'Big Jack'
+p398
+S'http://www.last.fm/music/AC%2FDC/_/Big+Jack'
+p399
+S'1263234844'
+p400
+tp401
+a(S'Black Sabbath'
+p402
+S'Megalomania'
+p403
+S'http://www.last.fm/music/Black+Sabbath/_/Megalomania'
+p404
+S'1263233847'
+p405
+tp406
+a(S'Liz Phair'
+p407
+S"Why Can't I"
+p408
+S'http://www.last.fm/music/Liz+Phair/_/Why+Can%27t+I'
+p409
+S'1263233638'
+p410
+tp411
+a(S'Atreyu'
+p412
+S'Becoming the Bull'
+p413
+S'http://www.last.fm/music/Atreyu/_/Becoming+the+Bull'
+p414
+S'1263233418'
+p415
+tp416
+a(S'Jupiter One'
+p417
+S'Countdown'
+p418
+S'http://www.last.fm/music/Jupiter+One/_/Countdown'
+p419
+S'1263233190'
+p420
+tp421
+a(S'Chickenfoot'
+p422
+S'Sexy Little Thing'
+p423
+S'http://www.last.fm/music/Chickenfoot/_/Sexy+Little+Thing'
+p424
+S'1263232934'
+p425
+tp426
+a(S'Rainbow'
+p427
+S"Long Live Rock 'N' Roll"
+p428
+S'http://www.last.fm/music/Rainbow/_/Long+Live+Rock+%27N%27+Roll'
+p429
+S'1263232673'
+p430
+tp431
+a(S'Airbourne'
+p432
+S'Diamond in the Rough'
+p433
+S'http://www.last.fm/music/Airbourne/_/Diamond+in+the+Rough'
+p434
+S'1263232498'
+p435
+tp436
+a(S'Black Sabbath'
+p437
+S'Megalomania'
+p438
+S'http://www.last.fm/music/Black+Sabbath/_/Megalomania'
+p439
+S'1263231918'
+p440
+tp441
+a(S'Rainbow'
+p442
+S"Long Live Rock 'N' Roll"
+p443
+S'http://www.last.fm/music/Rainbow/_/Long+Live+Rock+%27N%27+Roll'
+p444
+S'1263231656'
+p445
+tp446
+a(S'Jupiter One'
+p447
+S'Countdown'
+p448
+S'http://www.last.fm/music/Jupiter+One/_/Countdown'
+p449
+S'1263231428'
+p450
+tp451
+a(S'Atreyu'
+p452
+S'Becoming the Bull'
+p453
+S'http://www.last.fm/music/Atreyu/_/Becoming+the+Bull'
+p454
+S'1263231025'
+p455
+tp456
+a(S'Chickenfoot'
+p457
+S'Sexy Little Thing'
+p458
+S'http://www.last.fm/music/Chickenfoot/_/Sexy+Little+Thing'
+p459
+S'1263230769'
+p460
+tp461
+a(S'Airbourne'
+p462
+S'Diamond in the Rough'
+p463
+S'http://www.last.fm/music/Airbourne/_/Diamond+in+the+Rough'
+p464
+S'1263230595'
+p465
+tp466
+a(S'AC/DC'
+p467
+S'Big Jack'
+p468
+S'http://www.last.fm/music/AC%2FDC/_/Big+Jack'
+p469
+S'1263230352'
+p470
+tp471
+a(S'Liz Phair'
+p472
+S"Why Can't I"
+p473
+S'http://www.last.fm/music/Liz+Phair/_/Why+Can%27t+I'
+p474
+S'1263217929'
+p475
+tp476
+a(S'Rainbow'
+p477
+S"Long Live Rock 'N' Roll"
+p478
+S'http://www.last.fm/music/Rainbow/_/Long+Live+Rock+%27N%27+Roll'
+p479
+S'1263217667'
+p480
+tp481
+a(S'Black Sabbath'
+p482
+S'Megalomania'
+p483
+S'http://www.last.fm/music/Black+Sabbath/_/Megalomania'
+p484
+S'1263216866'
+p485
+tp486
+a(S'AC/DC'
+p487
+S'Big Jack'
+p488
+S'http://www.last.fm/music/AC%2FDC/_/Big+Jack'
+p489
+S'1263216629'
+p490
+tp491
+a(S'Airbourne'
+p492
+S'Diamond in the Rough'
+p493
+S'http://www.last.fm/music/Airbourne/_/Diamond+in+the+Rough'
+p494
+S'1263216455'
+p495
+tp496
+a(S'Atreyu'
+p497
+S'Becoming the Bull'
+p498
+S'http://www.last.fm/music/Atreyu/_/Becoming+the+Bull'
+p499
+S'1263216234'
+p500
+tp501
+a(S'Chickenfoot'
+p502
+S'Sexy Little Thing'
+p503
+S'http://www.last.fm/music/Chickenfoot/_/Sexy+Little+Thing'
+p504
+S'1263215979'
+p505
+tp506
+a(S'Jupiter One'
+p507
+S'Countdown'
+p508
+S'http://www.last.fm/music/Jupiter+One/_/Countdown'
+p509
+S'1263215750'
+p510
+tp511
+a(S'AC/DC'
+p512
+S'Hard as a Rock'
+p513
+S'http://www.last.fm/music/AC%2FDC/_/Hard+as+a+Rock'
+p514
+S'1263214135'
+p515
+tp516
+a(S'AC/DC'
+p517
+S'Moneytalks'
+p518
+S'http://www.last.fm/music/AC%2FDC/_/Moneytalks'
+p519
+S'1263213909'
+p520
+tp521
+a(S'AC/DC'
+p522
+S'Are You Ready'
+p523
+S'http://www.last.fm/music/AC%2FDC/_/Are+You+Ready'
+p524
+S'1263213659'
+p525
+tp526
+a(S'AC/DC'
+p527
+S'Goodbye & Good Riddance to Bad Luck'
+p528
+S'http://www.last.fm/music/AC%2FDC/_/Goodbye+&+Good+Riddance+to+Bad+Luck'
+p529
+S'1263213465'
+p530
+tp531
+a(S'AC/DC'
+p532
+S'Whole Lotta Rosie'
+p533
+S'http://www.last.fm/music/AC%2FDC/_/Whole+Lotta+Rosie'
+p534
+S'1263213217'
+p535
+tp536
+a(S'AC/DC'
+p537
+S'Hail Caesar'
+p538
+S'http://www.last.fm/music/AC%2FDC/_/Hail+Caesar'
+p539
+S'1263212903'
+p540
+tp541
+a(S'AC/DC'
+p542
+S'Soul Stripper'
+p543
+S'http://www.last.fm/music/AC%2FDC/_/Soul+Stripper'
+p544
+S'1263212517'
+p545
+tp546
+a(S'AC/DC'
+p547
+S'Big Jack'
+p548
+S'http://www.last.fm/music/AC%2FDC/_/Big+Jack'
+p549
+S'1263212280'
+p550
+tp551
+a(S'Black Sabbath'
+p552
+S'Fairies Wear Boots'
+p553
+S'http://www.last.fm/music/Black+Sabbath/_/Fairies+Wear+Boots'
+p554
+S'1263211777'
+p555
+tp556
+a(S'Black Sabbath'
+p557
+S'A National Acrobat'
+p558
+S'http://www.last.fm/music/Black+Sabbath/_/A+National+Acrobat'
+p559
+S'1263211400'
+p560
+tp561
+a(S'Black Sabbath'
+p562
+S'Behind the Wall of Sleep'
+p563
+S'http://www.last.fm/music/Black+Sabbath/_/Behind+the+Wall+of+Sleep'
+p564
+S'1263211183'
+p565
+tp566
+a(S'Black Sabbath'
+p567
+S'Spiral Architect'
+p568
+S'http://www.last.fm/music/Black+Sabbath/_/Spiral+Architect'
+p569
+S'1263210853'
+p570
+tp571
+a(S'Black Sabbath'
+p572
+S'Laguna Sunrise'
+p573
+S'http://www.last.fm/music/Black+Sabbath/_/Laguna+Sunrise'
+p574
+S'1263210681'
+p575
+tp576
+a(S'Black Sabbath'
+p577
+S'Hand of Doom'
+p578
+S'http://www.last.fm/music/Black+Sabbath/_/Hand+of+Doom'
+p579
+S'1263210253'
+p580
+tp581
+a(S'Black Sabbath'
+p582
+S'Killing Yourself to Live'
+p583
+S'http://www.last.fm/music/Black+Sabbath/_/Killing+Yourself+to+Live'
+p584
+S'1263209912'
+p585
+tp586
+a(S'Black Sabbath'
+p587
+S'Hole in the Sky'
+p588
+S'http://www.last.fm/music/Black+Sabbath/_/Hole+in+the+Sky'
+p589
+S'1263209672'
+p590
+tp591
+a(S'Black Sabbath'
+p592
+S'Sabbath Bloody Sabbath'
+p593
+S'http://www.last.fm/music/Black+Sabbath/_/Sabbath+Bloody+Sabbath'
+p594
+S'1263209326'
+p595
+tp596
+a(S'Black Sabbath'
+p597
+S'Megalomania'
+p598
+S'http://www.last.fm/music/Black+Sabbath/_/Megalomania'
+p599
+S'1263208746'
+p600
+tp601
+a(S'Black Sabbath'
+p602
+S'Planet Caravan'
+p603
+S'http://www.last.fm/music/Black+Sabbath/_/Planet+Caravan'
+p604
+S'1263208471'
+p605
+tp606
+a(S'Black Sabbath'
+p607
+S'Wheels of Confusion'
+p608
+S'http://www.last.fm/music/Black+Sabbath/_/Wheels+of+Confusion'
+p609
+S'1263207977'
+p610
+tp611
+a(S'Black Sabbath'
+p612
+S'Supertzar'
+p613
+S'http://www.last.fm/music/Black+Sabbath/_/Supertzar'
+p614
+S'1263207753'
+p615
+tp616
+a(S'Black Sabbath'
+p617
+S'Wicked World'
+p618
+S'http://www.last.fm/music/Black+Sabbath/_/Wicked+World'
+p619
+S'1263207470'
+p620
+tp621
+a(S'Black Sabbath'
+p622
+S'Get a Grip'
+p623
+S'http://www.last.fm/music/Black+Sabbath/_/Get+a+Grip'
+p624
+S'1263206794'
+p625
+tp626
+a(S'Black Sabbath'
+p627
+S'Get a Grip'
+p628
+S'http://www.last.fm/music/Black+Sabbath/_/Get+a+Grip'
+p629
+S'1262980114'
+p630
+tp631
+a(S'Black Sabbath'
+p632
+S'Hand of Doom'
+p633
+S'http://www.last.fm/music/Black+Sabbath/_/Hand+of+Doom'
+p634
+S'1262979662'
+p635
+tp636
+a(S'Black Sabbath'
+p637
+S'Spiral Architect'
+p638
+S'http://www.last.fm/music/Black+Sabbath/_/Spiral+Architect'
+p639
+S'1262979130'
+p640
+tp641
+a(S'Black Sabbath'
+p642
+S'Fluff'
+p643
+S'http://www.last.fm/music/Black+Sabbath/_/Fluff'
+p644
+S'1262978877'
+p645
+tp646
+a(S'Black Sabbath'
+p647
+S'Cornucopia'
+p648
+S'http://www.last.fm/music/Black+Sabbath/_/Cornucopia'
+p649
+S'1262978642'
+p650
+tp651
+a(S'Black Sabbath'
+p652
+S'Who Are You?'
+p653
+S'http://www.last.fm/music/Black+Sabbath/_/Who+Are+You%3F'
+p654
+S'1262978390'
+p655
+tp656
+a(S'Black Sabbath'
+p657
+S'Fairies Wear Boots'
+p658
+S'http://www.last.fm/music/Black+Sabbath/_/Fairies+Wear+Boots'
+p659
+S'1262978017'
+p660
+tp661
+a(S'Black Sabbath'
+p662
+S'Into the Void'
+p663
+S'http://www.last.fm/music/Black+Sabbath/_/Into+the+Void'
+p664
+S'1262977644'
+p665
+tp666
+a(S'Black Sabbath'
+p667
+S'Changes'
+p668
+S'http://www.last.fm/music/Black+Sabbath/_/Changes'
+p669
+S'1262977357'
+p670
+tp671
+a(S'Black Sabbath'
+p672
+S'Behind the Wall of Sleep'
+p673
+S'http://www.last.fm/music/Black+Sabbath/_/Behind+the+Wall+of+Sleep'
+p674
+S'1262977141'
+p675
+tp676
+a(S'Black Sabbath'
+p677
+S'Solitude'
+p678
+S'http://www.last.fm/music/Black+Sabbath/_/Solitude'
+p679
+S'1262976838'
+p680
+tp681
+a(S'Black Sabbath'
+p682
+S'Sabbath Bloody Sabbath'
+p683
+S'http://www.last.fm/music/Black+Sabbath/_/Sabbath+Bloody+Sabbath'
+p684
+S'1262976492'
+p685
+tp686
+a(S'Black Sabbath'
+p687
+S'Megalomania'
+p688
+S'http://www.last.fm/music/Black+Sabbath/_/Megalomania'
+p689
+S'1262975912'
+p690
+tp691
+a(S'Black Sabbath'
+p692
+S'Killing Yourself to Live'
+p693
+S'http://www.last.fm/music/Black+Sabbath/_/Killing+Yourself+to+Live'
+p694
+S'1262975571'
+p695
+tp696
+a(S'Black Sabbath'
+p697
+S'Planet Caravan'
+p698
+S'http://www.last.fm/music/Black+Sabbath/_/Planet+Caravan'
+p699
+S'1262975296'
+p700
+tp701
+a(S'Black Sabbath'
+p702
+S'Wicked World'
+p703
+S'http://www.last.fm/music/Black+Sabbath/_/Wicked+World'
+p704
+S'1262975013'
+p705
+tp706
+a(S'Black Sabbath'
+p707
+S'Laguna Sunrise'
+p708
+S'http://www.last.fm/music/Black+Sabbath/_/Laguna+Sunrise'
+p709
+S'1262974840'
+p710
+tp711
+a(S'Black Sabbath'
+p712
+S'Wheels of Confusion'
+p713
+S'http://www.last.fm/music/Black+Sabbath/_/Wheels+of+Confusion'
+p714
+S'1262974346'
+p715
+tp716
+a(S'Black Sabbath'
+p717
+S'The Warning'
+p718
+S'http://www.last.fm/music/Black+Sabbath/_/The+Warning'
+p719
+S'1262973713'
+p720
+tp721
+a(S'Black Sabbath'
+p722
+S'Supernaut'
+p723
+S'http://www.last.fm/music/Black+Sabbath/_/Supernaut'
+p724
+S'1262973428'
+p725
+tp726
+a(S'Black Sabbath'
+p727
+S'The Wizard'
+p728
+S'http://www.last.fm/music/Black+Sabbath/_/The+Wizard'
+p729
+S'1262973135'
+p730
+tp731
+a(S'Black Sabbath'
+p732
+S'A National Acrobat'
+p733
+S'http://www.last.fm/music/Black+Sabbath/_/A+National+Acrobat'
+p734
+S'1262972758'
+p735
+tp736
+a(S'Black Sabbath'
+p737
+S'Sabbra Cadabra'
+p738
+S'http://www.last.fm/music/Black+Sabbath/_/Sabbra+Cadabra'
+p739
+S'1262972397'
+p740
+tp741
+a(S'Black Sabbath'
+p742
+S'Hole in the Sky'
+p743
+S'http://www.last.fm/music/Black+Sabbath/_/Hole+in+the+Sky'
+p744
+S'1262972157'
+p745
+tp746
+a(S'Black Sabbath'
+p747
+S'Supertzar'
+p748
+S'http://www.last.fm/music/Black+Sabbath/_/Supertzar'
+p749
+S'1262971934'
+p750
+tp751
+a(S'Black Sabbath'
+p752
+S'Headless Cross'
+p753
+S'http://www.last.fm/music/Black+Sabbath/_/Headless+Cross'
+p754
+S'1262971545'
+p755
+tp756
+a(S'Black Sabbath'
+p757
+S'Get a Grip'
+p758
+S'http://www.last.fm/music/Black+Sabbath/_/Get+a+Grip'
+p759
+S'1262971245'
+p760
+tp761
+a(S'Black Sabbath'
+p762
+S'The Wizard'
+p763
+S'http://www.last.fm/music/Black+Sabbath/_/The+Wizard'
+p764
+S'1262969920'
+p765
+tp766
+a(S'Black Sabbath'
+p767
+S'Hole in the Sky'
+p768
+S'http://www.last.fm/music/Black+Sabbath/_/Hole+in+the+Sky'
+p769
+S'1262969680'
+p770
+tp771
+a(S'Black Sabbath'
+p772
+S'Solitude'
+p773
+S'http://www.last.fm/music/Black+Sabbath/_/Solitude'
+p774
+S'1262969378'
+p775
+tp776
+a(S'Black Sabbath'
+p777
+S'Wicked World'
+p778
+S'http://www.last.fm/music/Black+Sabbath/_/Wicked+World'
+p779
+S'1262969095'
+p780
+tp781
+a(S'Black Sabbath'
+p782
+S'Get a Grip'
+p783
+S'http://www.last.fm/music/Black+Sabbath/_/Get+a+Grip'
+p784
+S'1262968793'
+p785
+tp786
+a(S'Black Sabbath'
+p787
+S'Megalomania'
+p788
+S'http://www.last.fm/music/Black+Sabbath/_/Megalomania'
+p789
+S'1262967792'
+p790
+tp791
+a(S'Black Sabbath'
+p792
+S'Behind the Wall of Sleep'
+p793
+S'http://www.last.fm/music/Black+Sabbath/_/Behind+the+Wall+of+Sleep'
+p794
+S'1262967575'
+p795
+tp796
+a(S'Airbourne'
+p797
+S'Diamond in the Rough'
+p798
+S'http://www.last.fm/music/Airbourne/_/Diamond+in+the+Rough'
+p799
+S'1262954782'
+p800
+tp801
+a(S'Rainbow'
+p802
+S"Long Live Rock 'N' Roll"
+p803
+S'http://www.last.fm/music/Rainbow/_/Long+Live+Rock+%27N%27+Roll'
+p804
+S'1262954520'
+p805
+tp806
+a(S'Black Sabbath'
+p807
+S'Megalomania'
+p808
+S'http://www.last.fm/music/Black+Sabbath/_/Megalomania'
+p809
+S'1262953939'
+p810
+tp811
+a(S'Chickenfoot'
+p812
+S'Sexy Little Thing'
+p813
+S'http://www.last.fm/music/Chickenfoot/_/Sexy+Little+Thing'
+p814
+S'1262953684'
+p815
+tp816
+a(S'AC/DC'
+p817
+S'Big Jack'
+p818
+S'http://www.last.fm/music/AC%2FDC/_/Big+Jack'
+p819
+S'1262953447'
+p820
+tp821
+a(S'Atreyu'
+p822
+S'Becoming the Bull'
+p823
+S'http://www.last.fm/music/Atreyu/_/Becoming+the+Bull'
+p824
+S'1262953226'
+p825
+tp826
+a(S'Liz Phair'
+p827
+S"Why Can't I"
+p828
+S'http://www.last.fm/music/Liz+Phair/_/Why+Can%27t+I'
+p829
+S'1262953018'
+p830
+tp831
+a(S'AC/DC'
+p832
+S'Hail Caesar'
+p833
+S'http://www.last.fm/music/AC%2FDC/_/Hail+Caesar'
+p834
+S'1262952575'
+p835
+tp836
+a(S'AC/DC'
+p837
+S'Hard as a Rock'
+p838
+S'http://www.last.fm/music/AC%2FDC/_/Hard+as+a+Rock'
+p839
+S'1262952303'
+p840
+tp841
+a(S'AC/DC'
+p842
+S'Goodbye & Good Riddance to Bad Luck'
+p843
+S'http://www.last.fm/music/AC%2FDC/_/Goodbye+&+Good+Riddance+to+Bad+Luck'
+p844
+S'1262952109'
+p845
+tp846
+a(S'AC/DC'
+p847
+S"You Ain't Got a Hold on Me"
+p848
+S'http://www.last.fm/music/AC%2FDC/_/You+Ain%27t+Got+a+Hold+on+Me'
+p849
+S'1262951901'
+p850
+tp851
+a(S'AC/DC'
+p852
+S'Moneytalks'
+p853
+S'http://www.last.fm/music/AC%2FDC/_/Moneytalks'
+p854
+S'1262951675'
+p855
+tp856
+a(S'AC/DC'
+p857
+S'Big Jack'
+p858
+S'http://www.last.fm/music/AC%2FDC/_/Big+Jack'
+p859
+S'1262951438'
+p860
+tp861
+a(S'AC/DC'
+p862
+S'Whole Lotta Rosie'
+p863
+S'http://www.last.fm/music/AC%2FDC/_/Whole+Lotta+Rosie'
+p864
+S'1262951190'
+p865
+tp866
+a(S'AC/DC'
+p867
+S'Are You Ready'
+p868
+S'http://www.last.fm/music/AC%2FDC/_/Are+You+Ready'
+p869
+S'1262950939'
+p870
+tp871
+a(S'AC/DC'
+p872
+S"Hell Ain't A Bad Place To Be"
+p873
+S'http://www.last.fm/music/AC%2FDC/_/Hell+Ain%27t+A+Bad+Place+To+Be'
+p874
+S'1262950689'
+p875
+tp876
+a(S'AC/DC'
+p877
+S'Soul Stripper'
+p878
+S'http://www.last.fm/music/AC%2FDC/_/Soul+Stripper'
+p879
+S'1262950304'
+p880
+tp881
+a(S'Black Sabbath'
+p882
+S'Headless Cross'
+p883
+S'http://www.last.fm/music/Black+Sabbath/_/Headless+Cross'
+p884
+S'1262949173'
+p885
+tp886
+a(S'Black Sabbath'
+p887
+S'Megalomania'
+p888
+S'http://www.last.fm/music/Black+Sabbath/_/Megalomania'
+p889
+S'1262894331'
+p890
+tp891
+a(S'Black Sabbath'
+p892
+S'Planet Caravan'
+p893
+S'http://www.last.fm/music/Black+Sabbath/_/Planet+Caravan'
+p894
+S'1262894056'
+p895
+tp896
+a(S'Black Sabbath'
+p897
+S'Wicked World'
+p898
+S'http://www.last.fm/music/Black+Sabbath/_/Wicked+World'
+p899
+S'1262893773'
+p900
+tp901
+a(S'Black Sabbath'
+p902
+S'Supernaut'
+p903
+S'http://www.last.fm/music/Black+Sabbath/_/Supernaut'
+p904
+S'1262893488'
+p905
+tp906
+a(S'Black Sabbath'
+p907
+S'Behind the Wall of Sleep'
+p908
+S'http://www.last.fm/music/Black+Sabbath/_/Behind+the+Wall+of+Sleep'
+p909
+S'1262893270'
+p910
+tp911
+a(S'Black Sabbath'
+p912
+S'Laguna Sunrise'
+p913
+S'http://www.last.fm/music/Black+Sabbath/_/Laguna+Sunrise'
+p914
+S'1262893109'
+p915
+tp916
+a(S'Black Sabbath'
+p917
+S'The Warning'
+p918
+S'http://www.last.fm/music/Black+Sabbath/_/The+Warning'
+p919
+S'1262889231'
+p920
+tp921
+a(S'Black Sabbath'
+p922
+S'Hole in the Sky'
+p923
+S'http://www.last.fm/music/Black+Sabbath/_/Hole+in+the+Sky'
+p924
+S'1262888991'
+p925
+tp926
+a(S'Black Sabbath'
+p927
+S'Wheels of Confusion'
+p928
+S'http://www.last.fm/music/Black+Sabbath/_/Wheels+of+Confusion'
+p929
+S'1262888468'
+p930
+tp931
+a(S'Black Sabbath'
+p932
+S'Supernaut'
+p933
+S'http://www.last.fm/music/Black+Sabbath/_/Supernaut'
+p934
+S'1262888183'
+p935
+tp936
+a(S'Black Sabbath'
+p937
+S'Solitude'
+p938
+S'http://www.last.fm/music/Black+Sabbath/_/Solitude'
+p939
+S'1262887881'
+p940
+tp941
+a(S'Black Sabbath'
+p942
+S'Hand of Doom'
+p943
+S'http://www.last.fm/music/Black+Sabbath/_/Hand+of+Doom'
+p944
+S'1262887453'
+p945
+tp946
+a(S'Black Sabbath'
+p947
+S'Hole in the Sky'
+p948
+S'http://www.last.fm/music/Black+Sabbath/_/Hole+in+the+Sky'
+p949
+S'1262887213'
+p950
+tp951
+a(S'Black Sabbath'
+p952
+S'Laguna Sunrise'
+p953
+S'http://www.last.fm/music/Black+Sabbath/_/Laguna+Sunrise'
+p954
+S'1262887040'
+p955
+tp956
+a(S'Black Sabbath'
+p957
+S'Fairies Wear Boots'
+p958
+S'http://www.last.fm/music/Black+Sabbath/_/Fairies+Wear+Boots'
+p959
+S'1262886667'
+p960
+tp961
+a(S'Black Sabbath'
+p962
+S'A National Acrobat'
+p963
+S'http://www.last.fm/music/Black+Sabbath/_/A+National+Acrobat'
+p964
+S'1262886290'
+p965
+tp966
+a(S'Black Sabbath'
+p967
+S'Supertzar'
+p968
+S'http://www.last.fm/music/Black+Sabbath/_/Supertzar'
+p969
+S'1262886066'
+p970
+tp971
+a(S'Black Sabbath'
+p972
+S'Who Are You?'
+p973
+S'http://www.last.fm/music/Black+Sabbath/_/Who+Are+You%3F'
+p974
+S'1262885815'
+p975
+tp976
+a(S'Black Sabbath'
+p977
+S'Killing Yourself to Live'
+p978
+S'http://www.last.fm/music/Black+Sabbath/_/Killing+Yourself+to+Live'
+p979
+S'1262885474'
+p980
+tp981
+a(S'Black Sabbath'
+p982
+S'Into the Void'
+p983
+S'http://www.last.fm/music/Black+Sabbath/_/Into+the+Void'
+p984
+S'1262885101'
+p985
+tp986
+a(S'Black Sabbath'
+p987
+S'Changes'
+p988
+S'http://www.last.fm/music/Black+Sabbath/_/Changes'
+p989
+S'1262884786'
+p990
+tp991
+a(S'Black Sabbath'
+p992
+S'Planet Caravan'
+p993
+S'http://www.last.fm/music/Black+Sabbath/_/Planet+Caravan'
+p994
+S'1262884512'
+p995
+tp996
+a(S'Black Sabbath'
+p997
+S'Sabbath Bloody Sabbath'
+p998
+S'http://www.last.fm/music/Black+Sabbath/_/Sabbath+Bloody+Sabbath'
+p999
+S'1262884166'
+p1000
+tp1001
+a.

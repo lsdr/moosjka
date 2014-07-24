@@ -1,0 +1,1802 @@
+(lp1
+(S'Iron Maiden'
+p2
+S'Prodigal Son'
+p3
+S'http://www.last.fm/music/Iron+Maiden/_/Prodigal+Son'
+p4
+S'1159843378'
+p5
+tp6
+a(S'Iron Maiden'
+p7
+S'Drifter'
+p8
+S'http://www.last.fm/music/Iron+Maiden/_/Drifter'
+p9
+S'1159843091'
+p10
+tp11
+a(S'Live'
+p12
+S'Like I Do'
+p13
+S'http://www.last.fm/music/Live/_/Like+I+Do'
+p14
+S'1159842735'
+p15
+tp16
+a(S'Live'
+p17
+S'River Town'
+p18
+S'http://www.last.fm/music/Live/_/River+Town'
+p19
+S'1159842485'
+p20
+tp21
+a(S'Live'
+p22
+S'Lighthouse'
+p23
+S'http://www.last.fm/music/Live/_/Lighthouse'
+p24
+S'1159842297'
+p25
+tp26
+a(S'Live'
+p27
+S'Sweet Release'
+p28
+S'http://www.last.fm/music/Live/_/Sweet+Release'
+p29
+S'1159842114'
+p30
+tp31
+a(S'Mad Season'
+p32
+S"I'm Above"
+p33
+S'http://www.last.fm/music/Mad+Season/_/I%27m+Above'
+p34
+S'1159841770'
+p35
+tp36
+a(S'Metallica'
+p37
+S'Of Wolf and Man'
+p38
+S'http://www.last.fm/music/Metallica/_/Of+Wolf+and+Man'
+p39
+S'1159841513'
+p40
+tp41
+a(S'Misfits'
+p42
+S'Saturday Night'
+p43
+S'http://www.last.fm/music/Misfits/_/Saturday+Night'
+p44
+S'1159841305'
+p45
+tp46
+a(S'Misfits'
+p47
+S'Fiend Club'
+p48
+S'http://www.last.fm/music/Misfits/_/Fiend+Club'
+p49
+S'1159841132'
+p50
+tp51
+a(S'Mother Love Bone'
+p52
+S'Heartshine'
+p53
+S'http://www.last.fm/music/Mother+Love+Bone/_/Heartshine'
+p54
+S'1159840855'
+p55
+tp56
+a(VMotörhead
+p57
+S"It's A Long Way To The Top"
+p58
+S'http://www.last.fm/music/Mot%C3%B6rhead/_/It%27s+A+Long+Way+To+The+Top'
+p59
+S'1159840518'
+p60
+tp61
+a(VMotörhead
+p62
+S'Killed by Death'
+p63
+S'http://www.last.fm/music/Mot%C3%B6rhead/_/Killed+by+Death'
+p64
+S'1159840201'
+p65
+tp66
+a(VMotörhead
+p67
+S"Life's a Bitch"
+p68
+S'http://www.last.fm/music/Mot%C3%B6rhead/_/Life%27s+a+Bitch'
+p69
+S'1159839947'
+p70
+tp71
+a(VMotörhead
+p72
+S'Whorehouse Blues'
+p73
+S'http://www.last.fm/music/Mot%C3%B6rhead/_/Whorehouse+Blues'
+p74
+S'1159839714'
+p75
+tp76
+a(VMotörhead
+p77
+S'Overkill'
+p78
+S'http://www.last.fm/music/Mot%C3%B6rhead/_/Overkill'
+p79
+S'1159839402'
+p80
+tp81
+a(S'Pearl Jam'
+p82
+S'Even Flow'
+p83
+S'http://www.last.fm/music/Pearl+Jam/_/Even+Flow'
+p84
+S'1159839109'
+p85
+tp86
+a(S'Queen'
+p87
+S'Fat Bottomed Girls'
+p88
+S'http://www.last.fm/music/Queen/_/Fat+Bottomed+Girls'
+p89
+S'1159838906'
+p90
+tp91
+a(S'Queen'
+p92
+S'One Vision'
+p93
+S'http://www.last.fm/music/Queen/_/One+Vision'
+p94
+S'1159838664'
+p95
+tp96
+a(S'Queens of the Stone Age'
+p97
+S'No One Knows'
+p98
+S'http://www.last.fm/music/Queens+of+the+Stone+Age/_/No+One+Knows'
+p99
+S'1159838376'
+p100
+tp101
+a(S'Soundgarden'
+p102
+S'Mind Riot'
+p103
+S'http://www.last.fm/music/Soundgarden/_/Mind+Riot'
+p104
+S'1159838087'
+p105
+tp106
+a(S'Soundgarden'
+p107
+S'Fresh Tendrils'
+p108
+S'http://www.last.fm/music/Soundgarden/_/Fresh+Tendrils'
+p109
+S'1159837831'
+p110
+tp111
+a(S'Stevie Wonder'
+p112
+S"I Ain't Gonna Stand For It"
+p113
+S'http://www.last.fm/music/Stevie+Wonder/_/I+Ain%27t+Gonna+Stand+For+It'
+p114
+S'1159837554'
+p115
+tp116
+a(S'Stone Temple Pilots'
+p117
+S'Too Cool Queenie'
+p118
+S'http://www.last.fm/music/Stone+Temple+Pilots/_/Too+Cool+Queenie'
+p119
+S'1159837387'
+p120
+tp121
+a(S'The Who'
+p122
+S"Won't Get Fooled Again"
+p123
+S'http://www.last.fm/music/The+Who/_/Won%27t+Get+Fooled+Again'
+p124
+S'1159836874'
+p125
+tp126
+a(S'The Toy Dolls'
+p127
+S'The Final Countdown'
+p128
+S'http://www.last.fm/music/The+Toy+Dolls/_/The+Final+Countdown'
+p129
+S'1159836691'
+p130
+tp131
+a(S'NOFX'
+p132
+S'Last Caress'
+p133
+S'http://www.last.fm/music/NOFX/_/Last+Caress'
+p134
+S'1159735098'
+p135
+tp136
+a(S'Prong'
+p137
+S'London Dungeon'
+p138
+S'http://www.last.fm/music/Prong/_/London+Dungeon'
+p139
+S'1159734881'
+p140
+tp141
+a(S'Queen'
+p142
+S'Seven Seas of Rhye'
+p143
+S'http://www.last.fm/music/Queen/_/Seven+Seas+of+Rhye'
+p144
+S'1159734713'
+p145
+tp146
+a(S'Green River'
+p147
+S'New God'
+p148
+S'http://www.last.fm/music/Green+River/_/New+God'
+p149
+S'1159734443'
+p150
+tp151
+a(S'Red Hot Chili Peppers'
+p152
+S"Road Trippin'"
+p153
+S'http://www.last.fm/music/Red+Hot+Chili+Peppers/_/Road+Trippin%27'
+p154
+S'1159734237'
+p155
+tp156
+a(S'Red Hot Chili Peppers'
+p157
+S'Californication'
+p158
+S'http://www.last.fm/music/Red+Hot+Chili+Peppers/_/Californication'
+p159
+S'1159733916'
+p160
+tp161
+a(S'Santana'
+p162
+S'Evil Ways'
+p163
+S'http://www.last.fm/music/Santana/_/Evil+Ways'
+p164
+S'1159733681'
+p165
+tp166
+a(S'Santana'
+p167
+S'Black Magic Woman'
+p168
+S'http://www.last.fm/music/Santana/_/Black+Magic+Woman'
+p169
+S'1159733470'
+p170
+tp171
+a(S'Soundgarden'
+p172
+S'Rhinosaur'
+p173
+S'http://www.last.fm/music/Soundgarden/_/Rhinosaur'
+p174
+S'1159733276'
+p175
+tp176
+a(S'Aerosmith'
+p177
+S'Young Lust'
+p178
+S'http://www.last.fm/music/Aerosmith/_/Young+Lust'
+p179
+S'1159733016'
+p180
+tp181
+a(S'Super Furry Animals'
+p182
+S'Bad Behaviour'
+p183
+S'http://www.last.fm/music/Super+Furry+Animals/_/Bad+Behaviour'
+p184
+S'1159732749'
+p185
+tp186
+a(S'Stone Temple Pilots'
+p187
+S'Sour Girl'
+p188
+S'http://www.last.fm/music/Stone+Temple+Pilots/_/Sour+Girl'
+p189
+S'1159732492'
+p190
+tp191
+a(S'Stone Temple Pilots'
+p192
+S'Sex Type Thing'
+p193
+S'http://www.last.fm/music/Stone+Temple+Pilots/_/Sex+Type+Thing'
+p194
+S'1159732274'
+p195
+tp196
+a(S'The Cult'
+p197
+S'Painted On My Heart'
+p198
+S'http://www.last.fm/music/The+Cult/_/Painted+On+My+Heart'
+p199
+S'1159732006'
+p200
+tp201
+a(S'The Clash'
+p202
+S'Rock the Casbah'
+p203
+S'http://www.last.fm/music/The+Clash/_/Rock+the+Casbah'
+p204
+S'1159729578'
+p205
+tp206
+a(S'The Who'
+p207
+S"Won't Get Fooled Again"
+p208
+S'http://www.last.fm/music/The+Who/_/Won%27t+Get+Fooled+Again'
+p209
+S'1159729064'
+p210
+tp211
+a(S'The Yardbirds'
+p212
+S'Little Red Rooster'
+p213
+S'http://www.last.fm/music/The+Yardbirds/_/Little+Red+Rooster'
+p214
+S'1159728832'
+p215
+tp216
+a(S'The Yardbirds'
+p217
+S'Little Red Rooster (Rehearsal)'
+p218
+S'http://www.last.fm/music/The+Yardbirds/_/Little+Red+Rooster+(Rehearsal)'
+p219
+S'1159728714'
+p220
+tp221
+a(S'The Yardbirds'
+p222
+S'Out On The Water Coast'
+p223
+S'http://www.last.fm/music/The+Yardbirds/_/Out+On+The+Water+Coast'
+p224
+S'1159728523'
+p225
+tp226
+a(S'Tina Turner'
+p227
+S'Typical Male'
+p228
+S'http://www.last.fm/music/Tina+Turner/_/Typical+Male'
+p229
+S'1159728266'
+p230
+tp231
+a(S'Tina Turner'
+p232
+S"We Don't Need Another Hero"
+p233
+S'http://www.last.fm/music/Tina+Turner/_/We+Don%27t+Need+Another+Hero'
+p234
+S'1159727973'
+p235
+tp236
+a(S'Tina Turner'
+p237
+S'Simply the Best'
+p238
+S'http://www.last.fm/music/Tina+Turner/_/Simply+the+Best'
+p239
+S'1159727723'
+p240
+tp241
+a(S'The Toy Dolls'
+p242
+S'Yul Brynner Was a Skinhead'
+p243
+S'http://www.last.fm/music/The+Toy+Dolls/_/Yul+Brynner+Was+a+Skinhead'
+p244
+S'1159727548'
+p245
+tp246
+a(S'The Toy Dolls'
+p247
+S'Neville is a Nerd'
+p248
+S'http://www.last.fm/music/The+Toy+Dolls/_/Neville+is+a+Nerd'
+p249
+S'1159727385'
+p250
+tp251
+a(S'The Toy Dolls'
+p252
+S'Nowt Can Compare To Sunderland Fine Fare'
+p253
+S'http://www.last.fm/music/The+Toy+Dolls/_/Nowt+Can+Compare+To+Sunderland+Fine+Fare'
+p254
+S'1159727202'
+p255
+tp256
+a(S'The Toy Dolls'
+p257
+S'The Final Countdown'
+p258
+S'http://www.last.fm/music/The+Toy+Dolls/_/The+Final+Countdown'
+p259
+S'1159727018'
+p260
+tp261
+a(S'Van Halen'
+p262
+S"Don't Tell Me (What Love Can Do)"
+p263
+S'http://www.last.fm/music/Van+Halen/_/Don%27t+Tell+Me+(What+Love+Can+Do)'
+p264
+S'1159726662'
+p265
+tp266
+a(S'Van Halen'
+p267
+S'The Seventh Seal'
+p268
+S'http://www.last.fm/music/Van+Halen/_/The+Seventh+Seal'
+p269
+S'1159726249'
+p270
+tp271
+a(S'"Weird Al" Yankovic'
+p272
+S'Bohemian Polka'
+p273
+S'http://www.last.fm/music/%22Weird+Al%22+Yankovic/_/Bohemian+Polka'
+p274
+S'1159726030'
+p275
+tp276
+a(S'Wesley Willis'
+p277
+S'Feel the Power of Rock & Roll'
+p278
+S'http://www.last.fm/music/Wesley+Willis/_/Feel+the+Power+of+Rock+&+Roll'
+p279
+S'1159725888'
+p280
+tp281
+a(S'Wesley Willis'
+p282
+S"I'm Sorry That I Got Fat"
+p283
+S'http://www.last.fm/music/Wesley+Willis/_/I%27m+Sorry+That+I+Got+Fat'
+p284
+S'1159725645'
+p285
+tp286
+a(S'Wesley Willis'
+p287
+S'Fuck With Me and Find Out'
+p288
+S'http://www.last.fm/music/Wesley+Willis/_/Fuck+With+Me+and+Find+Out'
+p289
+S'1159725365'
+p290
+tp291
+a(S'The White Stripes'
+p292
+S'Seven Nation Army'
+p293
+S'http://www.last.fm/music/The+White+Stripes/_/Seven+Nation+Army'
+p294
+S'1159725135'
+p295
+tp296
+a(S'Led Zeppelin'
+p297
+S'Gallows Pole'
+p298
+S'http://www.last.fm/music/Led+Zeppelin/_/Gallows+Pole'
+p299
+S'1159724839'
+p300
+tp301
+a(S'Le Tigre'
+p302
+S'Deceptacon'
+p303
+S'http://www.last.fm/music/Le+Tigre/_/Deceptacon'
+p304
+S'1159724037'
+p305
+tp306
+a(S'Kiss'
+p307
+S'Easy As It Seems'
+p308
+S'http://www.last.fm/music/Kiss/_/Easy+As+It+Seems'
+p309
+S'1159723833'
+p310
+tp311
+a(S'Judas Priest'
+p312
+S'Metal Gods'
+p313
+S'http://www.last.fm/music/Judas+Priest/_/Metal+Gods'
+p314
+S'1159723594'
+p315
+tp316
+a(S'Judas Priest'
+p317
+S'Breaking the Law'
+p318
+S'http://www.last.fm/music/Judas+Priest/_/Breaking+the+Law'
+p319
+S'1159723436'
+p320
+tp321
+a(S'Eric Clapton'
+p322
+S'White Room'
+p323
+S'http://www.last.fm/music/Eric+Clapton/_/White+Room'
+p324
+S'1159723135'
+p325
+tp326
+a(S'Eric Clapton'
+p327
+S'Bell Bottom Blues'
+p328
+S'http://www.last.fm/music/Eric+Clapton/_/Bell+Bottom+Blues'
+p329
+S'1159722830'
+p330
+tp331
+a(S'Eric Clapton'
+p332
+S'Layla'
+p333
+S'http://www.last.fm/music/Eric+Clapton/_/Layla'
+p334
+S'1159722399'
+p335
+tp336
+a(S'Eric Clapton'
+p337
+S'Running on Faith'
+p338
+S'http://www.last.fm/music/Eric+Clapton/_/Running+on+Faith'
+p339
+S'1159721900'
+p340
+tp341
+a(S'Elmore James'
+p342
+S'Dust My Broom'
+p343
+S'http://www.last.fm/music/Elmore+James/_/Dust+My+Broom'
+p344
+S'1159721725'
+p345
+tp346
+a(S"Class of '99"
+p347
+S'Another Brick in the Wall'
+p348
+S'http://www.last.fm/music/Class+of+%2799/_/Another+Brick+in+the+Wall'
+p349
+S'1159721467'
+p350
+tp351
+a(S'Blues Traveler'
+p352
+S"What's For Breakfast"
+p353
+S'http://www.last.fm/music/Blues+Traveler/_/What%27s+For+Breakfast'
+p354
+S'1159719305'
+p355
+tp356
+a(S'Blues Traveler'
+p357
+S"Maybe I'm Wrong"
+p358
+S'http://www.last.fm/music/Blues+Traveler/_/Maybe+I%27m+Wrong'
+p359
+S'1159718960'
+p360
+tp361
+a(S'Blues Traveler'
+p362
+S'Sweet Pain'
+p363
+S'http://www.last.fm/music/Blues+Traveler/_/Sweet+Pain'
+p364
+S'1159715983'
+p365
+tp366
+a(S'Billy Idol'
+p367
+S'Sweet Sixteen'
+p368
+S'http://www.last.fm/music/Billy+Idol/_/Sweet+Sixteen'
+p369
+S'1159715728'
+p370
+tp371
+a(S'Billy Idol'
+p372
+S'White Wedding'
+p373
+S'http://www.last.fm/music/Billy+Idol/_/White+Wedding'
+p374
+S'1159715225'
+p375
+tp376
+a(S'Bad Religion'
+p377
+S'Punk Rock Song'
+p378
+S'http://www.last.fm/music/Bad+Religion/_/Punk+Rock+Song'
+p379
+S'1159715077'
+p380
+tp381
+a(S'Bad Religion'
+p382
+S'Superman'
+p383
+S'http://www.last.fm/music/Bad+Religion/_/Superman'
+p384
+S'1159715011'
+p385
+tp386
+a(S'Audioslave'
+p387
+S'Shadow On The Sun'
+p388
+S'http://www.last.fm/music/Audioslave/_/Shadow+On+The+Sun'
+p389
+S'1159714668'
+p390
+tp391
+a(S'Antonio de Mariz'
+p392
+S'My Way'
+p393
+S'http://www.last.fm/music/Antonio+de+Mariz/_/My+Way'
+p394
+S'1159714441'
+p395
+tp396
+a(S'Antonio de Mariz'
+p397
+S'No Woman No Cry'
+p398
+S'http://www.last.fm/music/Antonio+de+Mariz/_/No+Woman+No+Cry'
+p399
+S'1159714387'
+p400
+tp401
+a(S'Antonio de Mariz'
+p402
+S'Chamex Ink Jet Paper'
+p403
+S'http://www.last.fm/music/Antonio+de+Mariz/_/Chamex+Ink+Jet+Paper'
+p404
+S'1159714328'
+p405
+tp406
+a(S'Antonio de Mariz'
+p407
+S"Me da Rock 'n' Roll"
+p408
+S'http://www.last.fm/music/Antonio+de+Mariz/_/Me+da+Rock+%27n%27+Roll'
+p409
+S'1159714230'
+p410
+tp411
+a(S'Alice in Chains'
+p412
+S'Sludge Factory (Unplugged)'
+p413
+S'http://www.last.fm/music/Alice+in+Chains/_/Sludge+Factory+(Unplugged)'
+p414
+S'1159713953'
+p415
+tp416
+a(S'Alice in Chains'
+p417
+S'Love, Hate, Love'
+p418
+S'http://www.last.fm/music/Alice+in+Chains/_/Love,+Hate,+Love'
+p419
+S'1159713566'
+p420
+tp421
+a(S'Alice in Chains'
+p422
+S'Rain When I Die'
+p423
+S'http://www.last.fm/music/Alice+in+Chains/_/Rain+When+I+Die'
+p424
+S'1159713204'
+p425
+tp426
+a(S'Alice Cooper'
+p427
+S'Sideshow'
+p428
+S'http://www.last.fm/music/Alice+Cooper/_/Sideshow'
+p429
+S'1159712806'
+p430
+tp431
+a(S'Alice in Chains'
+p432
+S'Dam That River'
+p433
+S'http://www.last.fm/music/Alice+in+Chains/_/Dam+That+River'
+p434
+S'1159657563'
+p435
+tp436
+a(S'Alice in Chains'
+p437
+S'Down in a Hole'
+p438
+S'http://www.last.fm/music/Alice+in+Chains/_/Down+in+a+Hole'
+p439
+S'1159657225'
+p440
+tp441
+a(S'Mad Season'
+p442
+S"I'm Above"
+p443
+S'http://www.last.fm/music/Mad+Season/_/I%27m+Above'
+p444
+S'1159656615'
+p445
+tp446
+a(S'Live'
+p447
+S'Sweet Release'
+p448
+S'http://www.last.fm/music/Live/_/Sweet+Release'
+p449
+S'1159656433'
+p450
+tp451
+a(S'Alice Cooper'
+p452
+S'Dirty Dreams'
+p453
+S'http://www.last.fm/music/Alice+Cooper/_/Dirty+Dreams'
+p454
+S'1159656215'
+p455
+tp456
+a(S'Kiss'
+p457
+S"C'mon And Love Me"
+p458
+S'http://www.last.fm/music/Kiss/_/C%27mon+And+Love+Me'
+p459
+S'1159656037'
+p460
+tp461
+a(S'Dr. John'
+p462
+S'Anutha Zone'
+p463
+S'http://www.last.fm/music/Dr.+John/_/Anutha+Zone'
+p464
+S'1159655799'
+p465
+tp466
+a(S'Iron Maiden'
+p467
+S'Drifter'
+p468
+S'http://www.last.fm/music/Iron+Maiden/_/Drifter'
+p469
+S'1159655505'
+p470
+tp471
+a(S'Queen'
+p472
+S'Fat Bottomed Girls'
+p473
+S'http://www.last.fm/music/Queen/_/Fat+Bottomed+Girls'
+p474
+S'1159655303'
+p475
+tp476
+a(S'Queen'
+p477
+S'A Kind of Magic'
+p478
+S'http://www.last.fm/music/Queen/_/A+Kind+of+Magic'
+p479
+S'1159655041'
+p480
+tp481
+a(S'Queen'
+p482
+S'Radio Ga Ga'
+p483
+S'http://www.last.fm/music/Queen/_/Radio+Ga+Ga'
+p484
+S'1159654697'
+p485
+tp486
+a(S'Queen'
+p487
+S'I Want It All'
+p488
+S'http://www.last.fm/music/Queen/_/I+Want+It+All'
+p489
+S'1159654455'
+p490
+tp491
+a(S'Queen'
+p492
+S'One Vision'
+p493
+S'http://www.last.fm/music/Queen/_/One+Vision'
+p494
+S'1159654213'
+p495
+tp496
+a(S'Queens of the Stone Age'
+p497
+S'Go With the Flow'
+p498
+S'http://www.last.fm/music/Queens+of+the+Stone+Age/_/Go+With+the+Flow'
+p499
+S'1159654029'
+p500
+tp501
+a(S'Ramones'
+p502
+S'Somebody Put Something in My Drink'
+p503
+S'http://www.last.fm/music/Ramones/_/Somebody+Put+Something+in+My+Drink'
+p504
+S'1159653829'
+p505
+tp506
+a(S'Ramones'
+p507
+S'Bonzo Goes to Bitburg'
+p508
+S'http://www.last.fm/music/Ramones/_/Bonzo+Goes+to+Bitburg'
+p509
+S'1159653141'
+p510
+tp511
+a(S'Soundgarden'
+p512
+S'My Wave'
+p513
+S'http://www.last.fm/music/Soundgarden/_/My+Wave'
+p514
+S'1159652829'
+p515
+tp516
+a(S'Soundgarden'
+p517
+S'Drawing Flies'
+p518
+S'http://www.last.fm/music/Soundgarden/_/Drawing+Flies'
+p519
+S'1159652682'
+p520
+tp521
+a(S'Soundgarden'
+p522
+S'Superunknown'
+p523
+S'http://www.last.fm/music/Soundgarden/_/Superunknown'
+p524
+S'1159652376'
+p525
+tp526
+a(S'Stevie Wonder'
+p527
+S'Superstition'
+p528
+S'http://www.last.fm/music/Stevie+Wonder/_/Superstition'
+p529
+S'1159652137'
+p530
+tp531
+a(S'Stone Temple Pilots'
+p532
+S'Still Remains'
+p533
+S'http://www.last.fm/music/Stone+Temple+Pilots/_/Still+Remains'
+p534
+S'1159651925'
+p535
+tp536
+a(S'Super Furry Animals'
+p537
+S'Bad Behaviour'
+p538
+S'http://www.last.fm/music/Super+Furry+Animals/_/Bad+Behaviour'
+p539
+S'1159651658'
+p540
+tp541
+a(S'Tina Turner'
+p542
+S'Typical Male'
+p543
+S'http://www.last.fm/music/Tina+Turner/_/Typical+Male'
+p544
+S'1159651401'
+p545
+tp546
+a(S'Tina Turner'
+p547
+S'Simply the Best'
+p548
+S'http://www.last.fm/music/Tina+Turner/_/Simply+the+Best'
+p549
+S'1159651150'
+p550
+tp551
+a(S'Van Halen'
+p552
+S'Runaround'
+p553
+S'http://www.last.fm/music/Van+Halen/_/Runaround'
+p554
+S'1159650749'
+p555
+tp556
+a(S'Van Halen'
+p557
+S'Top of the World (live)'
+p558
+S'http://www.last.fm/music/Van+Halen/_/Top+of+the+World+(live)'
+p559
+S'1159650450'
+p560
+tp561
+a(S'Van Halen'
+p562
+S"Won't Get Fooled Again (Live)"
+p563
+S'http://www.last.fm/music/Van+Halen/_/Won%27t+Get+Fooled+Again+(Live)'
+p564
+S'1159649536'
+p565
+tp566
+a(S'The Who'
+p567
+S"Won't Get Fooled Again"
+p568
+S'http://www.last.fm/music/The+Who/_/Won%27t+Get+Fooled+Again'
+p569
+S'1159649022'
+p570
+tp571
+a(S'The Toy Dolls'
+p572
+S'The Final Countdown'
+p573
+S'http://www.last.fm/music/The+Toy+Dolls/_/The+Final+Countdown'
+p574
+S'1159648659'
+p575
+tp576
+a(S'Wesley Willis'
+p577
+S'Fuck You'
+p578
+S'http://www.last.fm/music/Wesley+Willis/_/Fuck+You'
+p579
+S'1159648544'
+p580
+tp581
+a(S'Wesley Willis'
+p582
+S'My Mother Smokes Crack Rocks'
+p583
+S'http://www.last.fm/music/Wesley+Willis/_/My+Mother+Smokes+Crack+Rocks'
+p584
+S'1159648395'
+p585
+tp586
+a(S'Iron Maiden'
+p587
+S'Wrathchild'
+p588
+S'http://www.last.fm/music/Iron+Maiden/_/Wrathchild'
+p589
+S'1159648221'
+p590
+tp591
+a(S'Iron Maiden'
+p592
+S'The Ides Of March'
+p593
+S'http://www.last.fm/music/Iron+Maiden/_/The+Ides+Of+March'
+p594
+S'1159648115'
+p595
+tp596
+a(S'Iron Maiden'
+p597
+S'Innocent Exile'
+p598
+S'http://www.last.fm/music/Iron+Maiden/_/Innocent+Exile'
+p599
+S'1159647882'
+p600
+tp601
+a(S'Iron Maiden'
+p602
+S'Another Life'
+p603
+S'http://www.last.fm/music/Iron+Maiden/_/Another+Life'
+p604
+S'1159647679'
+p605
+tp606
+a(S'Iron Maiden'
+p607
+S'Killers'
+p608
+S'http://www.last.fm/music/Iron+Maiden/_/Killers'
+p609
+S'1159647378'
+p610
+tp611
+a(S'Iron Maiden'
+p612
+S'Prodigal Son'
+p613
+S'http://www.last.fm/music/Iron+Maiden/_/Prodigal+Son'
+p614
+S'1159647006'
+p615
+tp616
+a(S'George Harrison'
+p617
+S'My Sweet Lord'
+p618
+S'http://www.last.fm/music/George+Harrison/_/My+Sweet+Lord'
+p619
+S'1159646722'
+p620
+tp621
+a(S'Faith No More'
+p622
+S'Edge of the World'
+p623
+S'http://www.last.fm/music/Faith+No+More/_/Edge+of+the+World'
+p624
+S'1159646243'
+p625
+tp626
+a(S'Faith No More'
+p627
+S'Easy'
+p628
+S'http://www.last.fm/music/Faith+No+More/_/Easy'
+p629
+S'1159646056'
+p630
+tp631
+a(S'Collective Soul'
+p632
+S'Why, Pt. 2'
+p633
+S'http://www.last.fm/music/Collective+Soul/_/Why,+Pt.+2'
+p634
+S'1159645837'
+p635
+tp636
+a(S'Collective Soul'
+p637
+S'Gel'
+p638
+S'http://www.last.fm/music/Collective+Soul/_/Gel'
+p639
+S'1159645658'
+p640
+tp641
+a(S'Bon Jovi'
+p642
+S'Runaway'
+p643
+S'http://www.last.fm/music/Bon+Jovi/_/Runaway'
+p644
+S'1159645429'
+p645
+tp646
+a(S'Blues Traveler'
+p647
+S'Sweet Pain'
+p648
+S'http://www.last.fm/music/Blues+Traveler/_/Sweet+Pain'
+p649
+S'1159644966'
+p650
+tp651
+a(S'Billy Idol'
+p652
+S'Rebel Yell'
+p653
+S'http://www.last.fm/music/Billy+Idol/_/Rebel+Yell'
+p654
+S'1159644681'
+p655
+tp656
+a(S'Black Sabbath'
+p657
+S'Sabbath Bloody Sabbath'
+p658
+S'http://www.last.fm/music/Black+Sabbath/_/Sabbath+Bloody+Sabbath'
+p659
+S'1159644333'
+p660
+tp661
+a(S'Black Sabbath'
+p662
+S'Iron Man'
+p663
+S'http://www.last.fm/music/Black+Sabbath/_/Iron+Man'
+p664
+S'1159638358'
+p665
+tp666
+a(S'Bad Religion'
+p667
+S'Marked'
+p668
+S'http://www.last.fm/music/Bad+Religion/_/Marked'
+p669
+S'1159638250'
+p670
+tp671
+a(S'Bad Religion'
+p672
+S'Along The Way'
+p673
+S'http://www.last.fm/music/Bad+Religion/_/Along+The+Way'
+p674
+S'1159638151'
+p675
+tp676
+a(S'Alice Cooper'
+p677
+S'Might As Well Be on Mars'
+p678
+S'http://www.last.fm/music/Alice+Cooper/_/Might+As+Well+Be+on+Mars'
+p679
+S'1159634620'
+p680
+tp681
+a(S'Alice Cooper'
+p682
+S'Dangerous Tonight'
+p683
+S'http://www.last.fm/music/Alice+Cooper/_/Dangerous+Tonight'
+p684
+S'1159634338'
+p685
+tp686
+a(S'Alice Cooper'
+p687
+S'Burning Our Bed'
+p688
+S'http://www.last.fm/music/Alice+Cooper/_/Burning+Our+Bed'
+p689
+S'1159634063'
+p690
+tp691
+a(S'Alice Cooper'
+p692
+S'Snakebite'
+p693
+S'http://www.last.fm/music/Alice+Cooper/_/Snakebite'
+p694
+S'1159633790'
+p695
+tp696
+a(S'Aerosmith'
+p697
+S"Adam's Apple"
+p698
+S'http://www.last.fm/music/Aerosmith/_/Adam%27s+Apple'
+p699
+S'1159633515'
+p700
+tp701
+a(S'AC/DC'
+p702
+S'For Those About to Rock'
+p703
+S'http://www.last.fm/music/AC%2FDC/_/For+Those+About+to+Rock'
+p704
+S'1159633088'
+p705
+tp706
+a(S'The Who'
+p707
+S"Won't Get Fooled Again"
+p708
+S'http://www.last.fm/music/The+Who/_/Won%27t+Get+Fooled+Again'
+p709
+S'1159420060'
+p710
+tp711
+a(S'Faith No More'
+p712
+S'Easy'
+p713
+S'http://www.last.fm/music/Faith+No+More/_/Easy'
+p714
+S'1159419865'
+p715
+tp716
+a(S'Stone Temple Pilots'
+p717
+S'Adhesive'
+p718
+S'http://www.last.fm/music/Stone+Temple+Pilots/_/Adhesive'
+p719
+S'1159419531'
+p720
+tp721
+a(S'Metallica'
+p722
+S'Stone Cold Crazy'
+p723
+S'http://www.last.fm/music/Metallica/_/Stone+Cold+Crazy'
+p724
+S'1159419394'
+p725
+tp726
+a(S'Queens of the Stone Age'
+p727
+S'Go With the Flow'
+p728
+S'http://www.last.fm/music/Queens+of+the+Stone+Age/_/Go+With+the+Flow'
+p729
+S'1159419186'
+p730
+tp731
+a(S'Mad Season'
+p732
+S"I'm Above"
+p733
+S'http://www.last.fm/music/Mad+Season/_/I%27m+Above'
+p734
+S'1159418842'
+p735
+tp736
+a(S'Blues Traveler'
+p737
+S'Sweet Pain'
+p738
+S'http://www.last.fm/music/Blues+Traveler/_/Sweet+Pain'
+p739
+S'1159418544'
+p740
+tp741
+a(S'Dirty Dancing'
+p742
+S'Time of my Life'
+p743
+S'http://www.last.fm/music/Dirty+Dancing/_/Time+of+my+Life'
+p744
+S'1159418260'
+p745
+tp746
+a(S'Atlantic Starr'
+p747
+S'Always'
+p748
+S'http://www.last.fm/music/Atlantic+Starr/_/Always'
+p749
+S'1159417948'
+p750
+tp751
+a(S'The Toy Dolls'
+p752
+S'The Final Countdown'
+p753
+S'http://www.last.fm/music/The+Toy+Dolls/_/The+Final+Countdown'
+p754
+S'1159417765'
+p755
+tp756
+a(S'Misfits'
+p757
+S'Scream!'
+p758
+S'http://www.last.fm/music/Misfits/_/Scream!'
+p759
+S'1159417588'
+p760
+tp761
+a(S'Alice Cooper'
+p762
+S'Hurricane Years'
+p763
+S'http://www.last.fm/music/Alice+Cooper/_/Hurricane+Years'
+p764
+S'1159417350'
+p765
+tp766
+a(S'The Toy Dolls'
+p767
+S'The Final Countdown'
+p768
+S'http://www.last.fm/music/The+Toy+Dolls/_/The+Final+Countdown'
+p769
+S'1159417167'
+p770
+tp771
+a(S'The Toy Dolls'
+p772
+S'The Final Countdown'
+p773
+S'http://www.last.fm/music/The+Toy+Dolls/_/The+Final+Countdown'
+p774
+S'1159334300'
+p775
+tp776
+a(S'The Beatles'
+p777
+S'Lucy in the Sky with Diamonds'
+p778
+S'http://www.last.fm/music/The+Beatles/_/Lucy+in+the+Sky+with+Diamonds'
+p779
+S'1159334063'
+p780
+tp781
+a(S'The Toy Dolls'
+p782
+S'The Final Countdown'
+p783
+S'http://www.last.fm/music/The+Toy+Dolls/_/The+Final+Countdown'
+p784
+S'1159333880'
+p785
+tp786
+a(S'Antonio de Mariz'
+p787
+S'My Way'
+p788
+S'http://www.last.fm/music/Antonio+de+Mariz/_/My+Way'
+p789
+S'1159333654'
+p790
+tp791
+a(S'Atlantic Starr'
+p792
+S'Always'
+p793
+S'http://www.last.fm/music/Atlantic+Starr/_/Always'
+p794
+S'1159333329'
+p795
+tp796
+a(S'Brenda Russell'
+p797
+S'Piano In The Dark'
+p798
+S'http://www.last.fm/music/Brenda+Russell/_/Piano+In+The+Dark'
+p799
+S'1159333006'
+p800
+tp801
+a(S'Bruce Hornsby'
+p802
+S"That's Just The Way It Is"
+p803
+S'http://www.last.fm/music/Bruce+Hornsby/_/That%27s+Just+The+Way+It+Is'
+p804
+S'1159332709'
+p805
+tp806
+a(S'Dirty Dancing'
+p807
+S'Time of my Life'
+p808
+S'http://www.last.fm/music/Dirty+Dancing/_/Time+of+my+Life'
+p809
+S'1159332394'
+p810
+tp811
+a(S'Fire Inc.'
+p812
+S'Nowhere Fast'
+p813
+S'http://www.last.fm/music/Fire+Inc./_/Nowhere+Fast'
+p814
+S'1159332031'
+p815
+tp816
+a(S'Fire Inc.'
+p817
+S'Tonight Is What It Means To Be Young'
+p818
+S'http://www.last.fm/music/Fire+Inc./_/Tonight+Is+What+It+Means+To+Be+Young'
+p819
+S'1159331615'
+p820
+tp821
+a(S'Mad Season'
+p822
+S"I'm Above"
+p823
+S'http://www.last.fm/music/Mad+Season/_/I%27m+Above'
+p824
+S'1159331270'
+p825
+tp826
+a(S'Metallica'
+p827
+S'Too Late Too Late'
+p828
+S'http://www.last.fm/music/Metallica/_/Too+Late+Too+Late'
+p829
+S'1159331078'
+p830
+tp831
+a(S'Metallica'
+p832
+S'Stone Cold Crazy'
+p833
+S'http://www.last.fm/music/Metallica/_/Stone+Cold+Crazy'
+p834
+S'1159330940'
+p835
+tp836
+a(S'Metallica'
+p837
+S'Overkill'
+p838
+S'http://www.last.fm/music/Metallica/_/Overkill'
+p839
+S'1159330695'
+p840
+tp841
+a(S'Noel'
+p842
+S'Silent Morning'
+p843
+S'http://www.last.fm/music/Noel/_/Silent+Morning'
+p844
+S'1159330431'
+p845
+tp846
+a(S'Rick Astley'
+p847
+S'Never Going to Give You Up'
+p848
+S'http://www.last.fm/music/Rick+Astley/_/Never+Going+to+Give+You+Up'
+p849
+S'1159330217'
+p850
+tp851
+a(S'Sade'
+p852
+S'Paradise'
+p853
+S'http://www.last.fm/music/Sade/_/Paradise'
+p854
+S'1159330000'
+p855
+tp856
+a(S'Starship'
+p857
+S"Nothing's Gonna Stop Us Now"
+p858
+S'http://www.last.fm/music/Starship/_/Nothing%27s+Gonna+Stop+Us+Now'
+p859
+S'1159329725'
+p860
+tp861
+a(S"Terence Trent D'Arby"
+p862
+S'Wishing Well'
+p863
+S'http://www.last.fm/music/Terence+Trent+D%27Arby/_/Wishing+Well'
+p864
+S'1159329510'
+p865
+tp866
+a(S'The Toy Dolls'
+p867
+S'How Do You Deal With Neal?'
+p868
+S'http://www.last.fm/music/The+Toy+Dolls/_/How+Do+You+Deal+With+Neal%3F'
+p869
+S'1159329323'
+p870
+tp871
+a(S'The Toy Dolls'
+p872
+S'Fisticuffs in Frederick Street'
+p873
+S'http://www.last.fm/music/The+Toy+Dolls/_/Fisticuffs+in+Frederick+Street'
+p874
+S'1159329123'
+p875
+tp876
+a(S'The Toy Dolls'
+p877
+S'The Final Countdown'
+p878
+S'http://www.last.fm/music/The+Toy+Dolls/_/The+Final+Countdown'
+p879
+S'1159328939'
+p880
+tp881
+a(S'South Park'
+p882
+S"Kyle's Mom Is A Bitch"
+p883
+S'http://www.last.fm/music/South+Park/_/Kyle%27s+Mom+Is+A+Bitch'
+p884
+S'1159328864'
+p885
+tp886
+a(S'Stone Temple Pilots'
+p887
+S'Seven Caged Tigers'
+p888
+S'http://www.last.fm/music/Stone+Temple+Pilots/_/Seven+Caged+Tigers'
+p889
+S'1159328609'
+p890
+tp891
+a(S'Super Furry Animals'
+p892
+S'Bad Behaviour'
+p893
+S'http://www.last.fm/music/Super+Furry+Animals/_/Bad+Behaviour'
+p894
+S'1159328342'
+p895
+tp896
+a(S'Super Furry Animals'
+p897
+S'Golden Retriever'
+p898
+S'http://www.last.fm/music/Super+Furry+Animals/_/Golden+Retriever'
+p899
+S'1159328194'
+p900
+tp901
+a(S'The Who'
+p902
+S"Won't Get Fooled Again"
+p903
+S'http://www.last.fm/music/The+Who/_/Won%27t+Get+Fooled+Again'
+p904
+S'1159327681'
+p905
+tp906
+a(S'Tina Turner'
+p907
+S'Simply the Best'
+p908
+S'http://www.last.fm/music/Tina+Turner/_/Simply+the+Best'
+p909
+S'1159327430'
+p910
+tp911
+a(S'Van Halen'
+p912
+S"Won't Get Fooled Again (Live)"
+p913
+S'http://www.last.fm/music/Van+Halen/_/Won%27t+Get+Fooled+Again+(Live)'
+p914
+S'1159326748'
+p915
+tp916
+a(S'Van Halen'
+p917
+S'Runaround'
+p918
+S'http://www.last.fm/music/Van+Halen/_/Runaround'
+p919
+S'1159326488'
+p920
+tp921
+a(S'Wesley Willis'
+p922
+S'Fuck You'
+p923
+S'http://www.last.fm/music/Wesley+Willis/_/Fuck+You'
+p924
+S'1159326372'
+p925
+tp926
+a(S'Wesley Willis'
+p927
+S'Fuck With Me and Find Out'
+p928
+S'http://www.last.fm/music/Wesley+Willis/_/Fuck+With+Me+and+Find+Out'
+p929
+S'1159326092'
+p930
+tp931
+a(S'Wesley Willis'
+p932
+S'My Mother Smokes Crack Rocks'
+p933
+S'http://www.last.fm/music/Wesley+Willis/_/My+Mother+Smokes+Crack+Rocks'
+p934
+S'1159325944'
+p935
+tp936
+a(S'Wesley Willis'
+p937
+S'Feel the Power of Rock & Roll'
+p938
+S'http://www.last.fm/music/Wesley+Willis/_/Feel+the+Power+of+Rock+&+Roll'
+p939
+S'1159325802'
+p940
+tp941
+a(S'Antonio de Mariz'
+p942
+S'My Way'
+p943
+S'http://www.last.fm/music/Antonio+de+Mariz/_/My+Way'
+p944
+S'1159325576'
+p945
+tp946
+a(S'Antonio de Mariz'
+p947
+S'Ta Chovendo pra Caralho'
+p948
+S'http://www.last.fm/music/Antonio+de+Mariz/_/Ta+Chovendo+pra+Caralho'
+p949
+S'1159325516'
+p950
+tp951
+a(S'Antonio de Mariz'
+p952
+S"Me da Rock 'n' Roll"
+p953
+S'http://www.last.fm/music/Antonio+de+Mariz/_/Me+da+Rock+%27n%27+Roll'
+p954
+S'1159325417'
+p955
+tp956
+a(S'Alice Cooper'
+p957
+S'Poison'
+p958
+S'http://www.last.fm/music/Alice+Cooper/_/Poison'
+p959
+S'1159325149'
+p960
+tp961
+a(S'Alice Cooper'
+p962
+S'Sideshow'
+p963
+S'http://www.last.fm/music/Alice+Cooper/_/Sideshow'
+p964
+S'1159324749'
+p965
+tp966
+a(S'Alice Cooper'
+p967
+S'Dangerous Tonight'
+p968
+S'http://www.last.fm/music/Alice+Cooper/_/Dangerous+Tonight'
+p969
+S'1159324467'
+p970
+tp971
+a(S'Alice Cooper'
+p972
+S'Burning Our Bed'
+p973
+S'http://www.last.fm/music/Alice+Cooper/_/Burning+Our+Bed'
+p974
+S'1159324192'
+p975
+tp976
+a(S'Alice Cooper'
+p977
+S'Snakebite'
+p978
+S'http://www.last.fm/music/Alice+Cooper/_/Snakebite'
+p979
+S'1159323919'
+p980
+tp981
+a(S'Aerosmith'
+p982
+S'One Way Street'
+p983
+S'http://www.last.fm/music/Aerosmith/_/One+Way+Street'
+p984
+S'1159323497'
+p985
+tp986
+a(S'AC/DC'
+p987
+S'Are You Ready'
+p988
+S'http://www.last.fm/music/AC%2FDC/_/Are+You+Ready'
+p989
+S'1159323224'
+p990
+tp991
+a(S'AC/DC'
+p992
+S'Touch Too Much'
+p993
+S'http://www.last.fm/music/AC%2FDC/_/Touch+Too+Much'
+p994
+S'1159322958'
+p995
+tp996
+a(S'Live'
+p997
+S'Like I Do'
+p998
+S'http://www.last.fm/music/Live/_/Like+I+Do'
+p999
+S'1159113086'
+p1000
+tp1001
+a.
