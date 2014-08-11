@@ -1,27 +1,21 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
+''' recent_tracks.py - incrementally fetch recent tracks from Last.FM '''
 
-# from bulbs.model import Node, Relationship
-# from bulbs.property import String, Integer, DateTime
-# from bulbs.utils import current_datetime
+__author__ = 'Luiz Rocha'
+__version__ = '0.1.0'
+__license__ = "public domain"
+
 
 from lastfm import LastFM
 import cPickle as pickle
 
-# class Person(Node):
-#     element_type = "person"
-#     name = String(nullable=False)
-#     age = Integer()
-#        
-# class Knows(Relationship):
-#     label = "knows"
-#     created = DateTime(default=current_datetime, nullable=False)
-#
 
 def extractTrackData(track):
     _data = (track.findtext('artist'), track.findtext('name'),
              track.findtext('url'), track.find('date').get('uts'))
     return _data
+
 
 def startingPage(service):
     try:
@@ -32,22 +26,27 @@ def startingPage(service):
         total_pages = totalPages(tracks)
     return int(last_page)
 
+
 def totalPages(track):
     total_pages = tracks.find('recenttracks').get('totalPages')
     return int(total_pages)
 
+
 def currentPage(track):
     current_page = tracks.find('recenttracks').get('page')
     return int(current_page)
+
 
 def isLastPage(track):
     current = currentPage(track)
     total   = totalPages(track)
     return current == total
 
+
 def registerLastPage(page):
     with open('db/last_page', 'w') as pointer:
         pointer.write(str(page))
+
 
 def writeRawData(data, page):
     track_file = 'db/tracks-%05d.db' % page
@@ -56,8 +55,10 @@ def writeRawData(data, page):
         db.close()
     registerLastPage(page)
 
+
 def itertracks(tracks):
     return (t for t in tracks.findall('recenttracks/track') if t.get('nowplaying') is None)
+
 
 if __name__ == '__main__':
     service = LastFM('7cc9edbf1289e55d01f6d0b6a6fd159b', 'lsdr')
@@ -71,6 +72,7 @@ if __name__ == '__main__':
         
         writeRawData(data, page)
  
+
 '''
 # Tratando o UTS timestamp
 __timestamp_tuple = time.gmtime(float(UTS))

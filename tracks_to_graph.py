@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 ''' tracks_to_graph.py - put recent tracks into a graph database '''
 
-__author__ = 'luiz rocha'
+__author__ = 'Luiz Rocha'
 __version__ = '0.1.0'
 __license__ = 'public domain'
 

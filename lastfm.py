@@ -5,6 +5,7 @@ __author__ = 'Luiz Rocha'
 __version__ = '0.1.0'
 __license__ = "public domain"
 
+# one day, python3:
 # from urllib.parse import urlencode
 from urllib import urlencode
 from httplib2 import Http
