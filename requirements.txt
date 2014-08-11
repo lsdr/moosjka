@@ -1,1 +1,6 @@
+--allow-external bulb
+--allow-unverified bulb
+git+https://github.com/espeed/bulbs.git#egg=bulb
+
 httplib2
+
