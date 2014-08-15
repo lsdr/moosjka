@@ -29,10 +29,31 @@ class Followed(Relationship):
     ts = DateTime(nullable=False)
 
 
+def add_to_graph(graph, antes, depois):
+    song_antes  = add_song(graph, antes)
+    song_depois = add_song(graph, depois)
+
+    ts = datetime.fromtimestamp(int(antes[3]))
+    graph.followed.create(song_depois, song_antes, ts=ts)
+
+
+def add_song(graph, song):
+    artist, name, url, ts = song
+    record = graph.song.get_or_create('name', name, name=name, artist=artist, url=url)
+    return record
+
+
+def zip_db(db, prev=()):
+    _tmp_db = copy(db)
+    _tmp_db.insert(0, prev)
+    _tmp_db.pop()
+    return zip(db, _tmp_db)
+
+
 if __name__ == '__main__':
     g = Graph()
     g.add_proxy('song', Song)
-    g.add_proxy(')ollowed', Followed)
+    g.add_proxy('followed', Followed)
 
     '''
     as datas do track sao o timestamp em que a musica terminou de ser
@@ -49,28 +70,9 @@ if __name__ == '__main__':
     g.followed.create(db[0], db[1], ts=db[1].ts)
     '''
     db = pickle.load(open('db/tracks-00001.db'))
-    
-    song_antes  = g.song.get_or_create('name',
-                                       db[1][1],
-                                       name=db[1][1],
-                                       artist=db[1][0],
-                                       url=db[1][2])
+    add_to_graph(g, db[1], db[0])
 
-    song_depois = g.song.get_or_create('name', 
-                                       db[0][1],
-                                       name=db[0][1], 
-                                       artist=db[0][0],
-                                       url=db[0][2])
-
-    ts = datetime.fromtimestamp(int(db[1][3]))
-    g.followed.create(song_depois, song_antes, ts=ts)
  
-    # def zip_db(db, prev=())
-    #     _tmp_db = copy(db)
-    #     _tmp_db.insert(0, prev)
-    #     _tmp_db.pop()
-    #     return zip(db, _tmp_db)
-    #
     # prev=()
     # db_files = glob()
     # for db_file in db_files:
