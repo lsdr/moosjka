@@ -23,8 +23,8 @@ class Song(Node):
     url     = String(nullable=True)
 
 
-class Followed(Relationship):
-    label = 'followed'
+class FollowedBy(Relationship):
+    label = 'followed_by'
     # attributes
     ts = DateTime(nullable=False)
 
@@ -34,7 +34,7 @@ def add_to_graph(graph, antes, depois):
     song_depois = add_song(graph, depois)
 
     ts = datetime.fromtimestamp(int(antes[3]))
-    graph.followed.create(song_depois, song_antes, ts=ts)
+    graph.followed_by.create(song_antes, song_depois, ts=ts)
 
 
 def add_song(graph, song):
@@ -53,7 +53,7 @@ def zip_db(db, prev=()):
 if __name__ == '__main__':
     g = Graph()
     g.add_proxy('song', Song)
-    g.add_proxy('followed', Followed)
+    g.add_proxy('followed_by', FollowedBy)
 
     '''
     as datas do track sao o timestamp em que a musica terminou de ser
