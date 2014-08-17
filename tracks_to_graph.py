@@ -6,14 +6,17 @@ __author__ = 'Luiz Rocha'
 __version__ = '0.1.0'
 __license__ = 'public domain'
 
+from progressbar import Bar, Percentage, ProgressBar
 from bulbs.model import Node, Relationship
 from bulbs.property import String, DateTime
 from bulbs.neo4jserver import Graph
 from datetime import datetime
+from glob import glob
 from copy import copy
 
 import cPickle as pickle
 
+WIDGETS = [Percentage(), ' ', Bar()]
 
 class Song(Node):
     element_type = 'song'
@@ -69,20 +72,20 @@ if __name__ == '__main__':
     song_antes  = g.song.get_or_create(name=db[1].name, ...)
     g.followed.create(db[0], db[1], ts=db[1].ts)
     '''
-    db = pickle.load(open('db/tracks-00001.db'))
-    add_to_graph(g, db[1], db[0])
+    # db = pickle.load(open('db/tracks-00001.db'))
+    # add_to_graph(g, db[1], db[0])
 
- 
-    # prev=()
-    # db_files = glob()
-    # for db_file in db_files:
-    #     for antes, depois in zip_db(db, prev):
-    #         if depois:
-    #             add_to_graph(antes, depois)
-    #         prev=antes
+    prev=()
+    db_files = glob('db/tracks*')
 
-#
-# song_1 = g.song.get_or_create(name='Crackerman', artist='STP')
-# song_2 = g.song.get_or_create(name='Dump', artist='Nirvana')
-# seq    = g.followed.create(song_2, song_1, ts='1141441596')
+    for db_file in db_files:
+        print 'processing %s file right now...' % db_file 
+        db   = pickle.load(open(db_file))
+        pbar = ProgressBar(widgets=WIDGETS, maxval=200).start()
+        for i, (antes, depois) in enumerate(zip_db(db, prev)):
+            if depois:
+                add_to_graph(g, antes, depois)
+            pbar.update(i+1)
+        prev=antes
+        pbar.finish()
 
