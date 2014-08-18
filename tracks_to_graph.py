@@ -58,20 +58,6 @@ if __name__ == '__main__':
     g.add_proxy('song', Song)
     g.add_proxy('followed_by', FollowedBy)
 
-    '''
-    as datas do track sao o timestamp em que a musica terminou de ser
-    ouvida (e de-facto scrobblada), entao a musica que SEGUIU a musica
-    o fez no ts da musica que ANTECEDEU
-    
-    os arquivos estao em ordem cronologica reversa, ou seja, no track-00001
-    a primeira posicao foi a ultima musica capturada (db[0]), a segunda
-    posicao (db[1]) foi a musica que ANTECEDEU a db[0].
-
-    entao:
-    song_depois = g.song.get_or_create(name=db[0].name, ...)
-    song_antes  = g.song.get_or_create(name=db[1].name, ...)
-    g.followed.create(db[0], db[1], ts=db[1].ts)
-    '''
     # db = pickle.load(open('db/tracks-00001.db'))
     # add_to_graph(g, db[1], db[0])
 
