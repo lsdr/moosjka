@@ -38,9 +38,9 @@ def currentPage(track):
 
 
 def isLastPage(track):
-    current = currentPage(track)
-    total   = totalPages(track)
-    return current == total
+    current_page  = currentPage(track)
+    total_pages   = totalPages(track)
+    return current_page == total_pages
 
 
 def registerLastPage(page):
@@ -69,9 +69,9 @@ if __name__ == '__main__':
         tracks = service.fetch('user.getrecenttracks', limit='200', page=str(page))
         data   = [extractTrackData(t) for t in itertracks(tracks)]
         # print data
-        
+
         writeRawData(data, page)
- 
+
 
 '''
 # Tratando o UTS timestamp
@@ -93,14 +93,14 @@ print __timestamp
 10x o número de tracks, 9.58x o número de bytes
 25x o número de tracks, 24.08x o número de bytes
 
-em tese, crescimento linear (~ 123 bytes/track) logo, para 
+em tese, crescimento linear (~ 123 bytes/track) logo, para
 51.914 tracks (em 08/04), db seria aprox. 6 Mb.
 
 # Ler o DB:
     from cPickle import load
     with open('tracks.db') as f:
         data = load(f)
-        
+
     len(data)
 
 # Benchmark:
